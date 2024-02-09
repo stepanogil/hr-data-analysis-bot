@@ -1,0 +1,1001 @@
+employee-id,month-year,overtime-type,hours,amount,location,job-family,overtime-category
+7665,September 2014,Night Premium,24.0,137.28,Factory C,Manufacturing,Night Differential
+9110,September 2014,Rest Day Pay,8.0,1435.92,Factory C,Engineering and Technical Support,Premium Pay
+6170,September 2014,OT Rest day,8.0,742.96,Factory C,Manufacturing,OT
+9540,September 2014,Rest Day Pay,8.0,480.08,Factory C,Manufacturing,Premium Pay
+9768,September 2014,Night Premium,48.0,423.84,Factory C,Quality Management,Night Differential
+7708,September 2014,OT Rest day,4.0,522.0,Factory C,Manufacturing,OT
+316,September 2014,Night Premium,20.0,116.6,Factory C,"Supply Chain, Logistics and Procurement",Night Differential
+5626,September 2014,Rest Day Premium Pay,16.0,477.12,Factory C,Manufacturing,Premium Pay
+3146,September 2014,Rest Day Pay,16.0,3035.2,Factory C,Manufacturing,Premium Pay
+2170,September 2014,OT Regular,48.0,4265.28,Factory C,Quality Management,OT
+8866,September 2014,OT Rest day,8.0,727.28,Factory C,Manufacturing,OT
+390,September 2014,Rest Day Premium Pay,8.0,172.64,Factory C,Manufacturing,Premium Pay
+2269,September 2014,Rest Day Pay,8.0,543.2,Factory C,Manufacturing,Premium Pay
+6484,September 2014,Rest Day Pay,8.0,1345.44,Factory C,Engineering and Technical Support,Premium Pay
+2869,September 2014,OT Regular,39.0,3100.11,Factory C,Manufacturing,OT
+7554,September 2014,OT Regular,36.0,4388.76,Factory C,Manufacturing,OT
+6123,September 2014,Rest Day Pay,5.03,1163.89,Factory C,Quality Management,Premium Pay
+3940,September 2014,OT Regular,37.0,2463.83,Factory C,Manufacturing,OT
+9078,September 2014,Night Premium,8.0,54.4,Factory C,Manufacturing,Night Differential
+9570,September 2014,OT Regular,7.0,1033.76,Factory C,"Supply Chain, Logistics and Procurement",OT
+3560,September 2014,Rest Day Pay,16.0,1670.56,Factory C,Engineering and Technical Support,Premium Pay
+9220,September 2014,OT Regular,43.14,2870.54,Factory C,Manufacturing,OT
+3391,September 2014,Rest Day Premium Pay,8.0,174.4,Factory C,Manufacturing,Premium Pay
+7758,September 2014,OT Rest day,6.95,2653.65,Factory C,Manufacturing,OT
+3432,September 2014,OT Regular,48.0,10581.12,Factory C,Manufacturing,OT
+6765,September 2014,OT Regular,44.0,6137.56,Factory C,Engineering and Technical Support,OT
+9969,September 2014,Rest Day Pay,8.0,693.92,Factory C,Manufacturing,Premium Pay
+2184,September 2014,Night Premium,4.0,53.28,Factory C,Manufacturing,Night Differential
+3627,September 2014,OT Regular,41.64,2757.82,Factory C,Engineering and Technical Support,OT
+5828,September 2014,OT Regular,48.0,4280.64,Factory C,Manufacturing,OT
+6545,September 2014,Rest Day Pay,8.0,510.56,Factory C,Manufacturing,Premium Pay
+1833,September 2014,OT Regular,32.0,2633.6,Factory C,Manufacturing,OT
+4356,September 2014,OT Rest day,4.0,386.08,Factory C,Manufacturing,OT
+8868,September 2014,OT Rest day,7.87,2842.41,Factory C,Manufacturing,OT
+8537,September 2014,OT Regular,48.0,3995.52,Factory C,Manufacturing,OT
+1569,September 2014,OT Regular,44.0,3803.8,Factory C,Manufacturing,OT
+3175,September 2014,Night Premium,24.0,203.28,Factory C,Manufacturing,Night Differential
+4087,September 2014,OT Special Holiday,4.0,502.48,Factory C,Manufacturing,OT
+3185,September 2014,Rest Day Premium Pay,16.0,921.76,Factory C,Manufacturing,Premium Pay
+8795,September 2014,OT Rest day,4.0,528.48,Factory C,Manufacturing,OT
+3633,September 2014,Night Premium,24.05,133.0,Factory C,Manufacturing,Night Differential
+8801,September 2014,OT Regular,37.16,4323.57,Factory C,Manufacturing,OT
+4045,September 2014,OT Rest day,4.0,1898.48,Factory C,Engineering and Technical Support,OT
+9730,September 2014,Rest Day Pay,16.0,1104.0,Factory C,Quality Management,Premium Pay
+4146,September 2014,Rest Day Premium Pay,8.0,366.08,Factory C,Manufacturing,Premium Pay
+3461,September 2014,Night Premium,20.0,135.8,Factory C,Quality Management,Night Differential
+8674,September 2014,OT Regular,8.0,984.0,Factory C,Manufacturing,OT
+4554,September 2014,Night Premium,24.0,177.6,Factory C,Manufacturing,Night Differential
+8652,September 2014,Night Premium,19.0,130.34,Factory C,Manufacturing,Night Differential
+8801,September 2014,Rest Day Pay,16.0,1489.28,Factory C,Manufacturing,Premium Pay
+4207,September 2014,OT Regular,52.0,6374.68,Factory C,Manufacturing,OT
+4157,September 2014,OT Regular,4.0,339.52,Factory C,Manufacturing,OT
+4480,September 2014,OT Regular,23.0,3038.07,Factory C,Manufacturing,OT
+1519,September 2014,OT Regular,50.02,6244.0,Factory C,Manufacturing,OT
+7486,September 2014,OT Regular,20.0,1722.6,Factory C,Manufacturing,OT
+5326,September 2014,Night Premium,16.0,87.2,Factory C,"Supply Chain, Logistics and Procurement",Night Differential
+2147,September 2014,OT Regular,27.75,2289.38,Factory C,Manufacturing,OT
+1505,September 2014,OT Regular,41.03,2736.29,Factory C,Manufacturing,OT
+1331,September 2014,OT Rest day,4.0,587.52,Factory C,Quality Management,OT
+6353,September 2014,Night Premium,32.0,211.84,Factory C,Manufacturing,Night Differential
+9140,September 2014,OT Regular,23.02,2623.82,Factory C,Engineering and Technical Support,OT
+1471,September 2014,OT Rest day,4.0,618.8,Factory C,Quality Management,OT
+1970,September 2014,OT Regular,27.0,3101.76,Factory C,Manufacturing,OT
+6930,September 2014,Rest Day Pay,8.0,919.2,Factory C,Manufacturing,Premium Pay
+4053,September 2014,Night Premium,8.0,52.32,Factory C,Manufacturing,Night Differential
+7257,September 2014,Rest Day Premium Pay,8.0,171.04,Factory C,Manufacturing,Premium Pay
+4827,September 2014,OT Regular,1.0,66.88,Factory C,"Supply Chain, Logistics and Procurement",OT
+5662,September 2014,OT Regular,47.58,4614.78,Factory C,Manufacturing,OT
+8221,September 2014,Special Holiday Premium,8.0,132.4,Factory C,Manufacturing,Premium Pay
+5923,September 2014,Special Holiday Premium,8.0,132.16,Factory C,Manufacturing,Premium Pay
+1062,September 2014,OT Regular,40.0,2989.6,Factory C,Manufacturing,OT
+8770,September 2014,Night Premium,8.0,51.2,Factory C,Manufacturing,Night Differential
+7031,September 2014,Rest Day Pay,8.0,553.2,Factory C,Quality Management,Premium Pay
+1064,September 2014,OT Regular,47.0,3272.61,Factory C,Manufacturing,OT
+5626,September 2014,Night Premium,28.0,278.32,Factory C,Manufacturing,Night Differential
+2227,September 2014,Night Premium,36.0,241.92,Factory C,Manufacturing,Night Differential
+5968,September 2014,Rest Day Pay,8.0,561.92,Factory C,Quality Management,Premium Pay
+2047,September 2014,OT Rest day,7.98,903.74,Factory C,Manufacturing,OT
+9074,September 2014,Rest Day Pay,16.0,1048.0,Factory C,Engineering and Technical Support,Premium Pay
+892,September 2014,OT Rest day,4.0,1324.84,Factory C,Quality Management,OT
+8185,September 2014,OT Regular,39.0,3141.84,Factory C,Manufacturing,OT
+8490,September 2014,OT Regular,48.0,6534.72,Factory C,Quality Management,OT
+1967,September 2014,OT Rest day,8.0,1237.2,Factory C,Engineering and Technical Support,OT
+3541,September 2014,Rest Day Pay,7.87,785.9,Factory C,Manufacturing,Premium Pay
+4737,September 2014,Special Holiday Premium,8.0,153.04,Factory C,Manufacturing,Premium Pay
+2469,September 2014,Night Premium,24.0,237.84,Factory C,Manufacturing,Night Differential
+367,September 2014,OT Regular,28.0,2408.84,Factory C,Manufacturing,OT
+1691,September 2014,OT Regular,28.0,2254.84,Factory C,Manufacturing,OT
+6345,September 2014,Rest Day Premium Pay,16.0,448.32,Factory C,Manufacturing,Premium Pay
+385,September 2014,OT Regular,24.0,1932.24,Factory C,Manufacturing,OT
+3254,September 2014,OT Regular,32.0,2942.72,Factory C,Manufacturing,OT
+4088,September 2014,Rest Day Pay,16.0,3660.16,Factory C,Manufacturing,Premium Pay
+4817,September 2014,Night Premium,44.0,300.08,Factory C,Manufacturing,Night Differential
+1030,September 2014,OT Rest day,4.0,1026.04,Factory C,Manufacturing,OT
+2043,September 2014,OT Regular,36.0,2772.0,Factory C,Manufacturing,OT
+2818,September 2014,OT Regular,27.58,2542.88,Factory C,Manufacturing,OT
+7128,September 2014,OT Regular,48.0,3901.44,Factory C,Quality Management,OT
+6595,September 2014,Rest Day Premium Pay,8.0,131.52,Factory C,Manufacturing,Premium Pay
+3044,September 2014,Night Premium,24.0,239.76,Factory C,Manufacturing,Night Differential
+9662,September 2014,Night Premium,4.0,24.8,Factory C,Engineering and Technical Support,Night Differential
+5848,September 2014,OT Regular,32.0,3663.68,Factory C,Manufacturing,OT
+952,September 2014,Rest Day Premium Pay,16.0,317.6,Factory C,Manufacturing,Premium Pay
+5566,September 2014,Rest Day Premium Pay,16.0,326.24,Factory C,Manufacturing,Premium Pay
+1382,September 2014,OT Rest day,3.93,367.3,Factory C,Manufacturing,OT
+4960,September 2014,OT Regular,48.0,3647.04,Factory C,Manufacturing,OT
+7609,September 2014,Rest Day Pay,7.9,433.24,Factory C,Manufacturing,Premium Pay
+4423,September 2014,OT Regular,32.0,2604.48,Factory C,Manufacturing,OT
+8794,September 2014,Rest Day Pay,16.0,1550.08,Factory C,Manufacturing,Premium Pay
+3802,September 2014,OT Regular,4.0,373.0,Factory C,Manufacturing,OT
+8454,September 2014,OT Regular,12.0,2288.16,Factory C,Manufacturing,OT
+9339,September 2014,Night Premium,4.0,32.76,Factory C,Manufacturing,Night Differential
+3271,September 2014,Rest Day Pay,8.0,895.04,Factory C,Engineering and Technical Support,Premium Pay
+4270,September 2014,Night Premium,8.0,46.08,Factory C,Manufacturing,Night Differential
+9948,September 2014,OT Regular,40.0,4887.6,Factory C,Quality Management,OT
+9093,September 2014,Rest Day Premium Pay,7.92,135.99,Factory C,Manufacturing,Premium Pay
+7019,September 2014,Night Premium,44.0,320.32,Factory C,Manufacturing,Night Differential
+7764,September 2014,Night Premium,20.0,371.6,Factory C,Manufacturing,Night Differential
+9866,September 2014,OT Regular,40.0,4965.6,Factory C,Quality Management,OT
+194,September 2014,Night Premium,20.0,100.8,Factory C,Manufacturing,Night Differential
+9533,September 2014,Rest Day Premium Pay,12.83,546.56,Factory C,Engineering and Technical Support,Premium Pay
+7997,September 2014,Special Holiday Premium,8.0,265.2,Factory C,Manufacturing,Premium Pay
+2936,September 2014,OT Rest day,4.0,377.8,Factory C,Manufacturing,OT
+5434,September 2014,Rest Day Premium Pay,8.0,313.52,Factory C,Manufacturing,Premium Pay
+1389,September 2014,OT Rest day,4.0,512.68,Factory C,Manufacturing,OT
+7695,September 2014,Night Premium,40.0,241.2,Factory C,"Supply Chain, Logistics and Procurement",Night Differential
+3085,September 2014,OT Regular,36.0,8488.8,Factory C,Manufacturing,OT
+9750,September 2014,Rest Day Premium Pay,8.0,366.08,Factory C,Manufacturing,Premium Pay
+2232,September 2014,OT Rest day,3.0,557.28,Factory C,Quality Management,OT
+2801,September 2014,OT Regular,36.0,6001.2,Factory C,Manufacturing,OT
+3115,September 2014,OT Special Holiday,4.0,630.08,Factory C,Manufacturing,OT
+1690,September 2014,Rest Day Pay,8.0,565.84,Factory C,Manufacturing,Premium Pay
+4236,September 2014,Night Premium,16.0,103.52,Factory C,Engineering and Technical Support,Night Differential
+1949,September 2014,Night Premium,20.0,281.8,Factory C,Engineering and Technical Support,Night Differential
+4023,September 2014,OT Special Holiday,4.0,368.76,Factory C,Manufacturing,OT
+6469,September 2014,OT Regular,38.15,6588.12,Factory C,Engineering and Technical Support,OT
+7772,September 2014,Rest Day Premium Pay,8.0,276.0,Factory C,Quality Management,Premium Pay
+4529,September 2014,OT Regular,14.0,1180.06,Factory C,Manufacturing,OT
+9371,September 2014,Night Premium,20.0,270.0,Factory C,Manufacturing,Night Differential
+6611,September 2014,OT Regular,51.0,7304.73,Factory C,Engineering and Technical Support,OT
+4873,September 2014,Night Premium,24.0,206.4,Factory C,Manufacturing,Night Differential
+1496,September 2014,OT Rest day,2.97,324.89,Factory C,Manufacturing,OT
+3391,September 2014,Rest Day Premium Pay,8.0,174.4,Factory C,Manufacturing,Premium Pay
+9633,September 2014,Rest Day Premium Pay,16.0,265.76,Factory C,Manufacturing,Premium Pay
+805,September 2014,Rest Day Pay,16.0,3319.2,Factory C,Engineering and Technical Support,Premium Pay
+4725,September 2014,OT Rest day,6.0,677.04,Factory C,Manufacturing,OT
+8217,September 2014,Night Premium,24.0,178.32,Factory C,Manufacturing,Night Differential
+712,September 2014,Night Premium,16.0,271.84,Factory C,Manufacturing,Night Differential
+3430,September 2014,Rest Day Pay,8.0,688.08,Factory C,Manufacturing,Premium Pay
+5637,September 2014,Rest Day Premium Pay,8.0,192.96,Factory C,Manufacturing,Premium Pay
+8479,September 2014,Night Premium,32.0,297.28,Factory C,Manufacturing,Night Differential
+4236,September 2014,Night Premium,28.0,181.16,Factory C,Engineering and Technical Support,Night Differential
+8730,September 2014,Rest Day on Holiday Pay,2.62,203.02,Factory C,Engineering and Technical Support,Premium Pay
+3556,September 2014,Special Holiday Premium,6.0,130.68,Factory C,Engineering and Technical Support,Premium Pay
+6309,September 2014,OT Rest day,8.0,996.0,Factory C,Manufacturing,OT
+2688,September 2014,Night Premium,28.0,256.2,Factory C,Manufacturing,Night Differential
+5389,September 2014,OT Regular,51.0,3388.95,Factory C,Manufacturing,OT
+9846,September 2014,OT Regular,50.0,8701.5,Factory C,Manufacturing,OT
+9951,September 2014,Night Premium,8.0,58.0,Factory C,Manufacturing,Night Differential
+1306,September 2014,Night Premium,32.0,171.2,Factory C,Manufacturing,Night Differential
+4571,September 2014,Rest Day Premium Pay,8.0,397.04,Factory C,Manufacturing,Premium Pay
+8394,September 2014,OT Special Holiday,4.0,371.32,Factory C,Manufacturing,OT
+527,September 2014,Rest Day Premium Pay,8.0,130.88,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+5803,September 2014,Rest Day Premium Pay,8.0,162.0,Factory C,Quality Management,Premium Pay
+8500,September 2014,Rest Day Pay,8.0,626.96,Factory C,Manufacturing,Premium Pay
+4599,September 2014,Night Premium,20.0,238.0,Factory C,Manufacturing,Night Differential
+1338,September 2014,Rest Day Pay,16.0,899.04,Factory C,Manufacturing,Premium Pay
+2321,September 2014,Night Premium,40.0,922.0,Factory C,Manufacturing,Night Differential
+1182,September 2014,Special Holiday Premium,8.0,144.4,Factory C,Manufacturing,Premium Pay
+7030,September 2014,Night Premium,4.0,26.2,Factory C,Quality Management,Night Differential
+3368,September 2014,Rest Day Premium Pay,8.0,366.08,Factory C,Manufacturing,Premium Pay
+8225,September 2014,Rest Day Premium Pay,16.0,258.4,Factory C,Manufacturing,Premium Pay
+8434,September 2014,Rest Day Premium Pay,7.8,212.94,Factory C,Manufacturing,Premium Pay
+6956,September 2014,OT Regular,12.0,3583.2,Factory C,Manufacturing,OT
+1386,September 2014,OT Regular,29.83,4323.86,Factory C,Manufacturing,OT
+4786,September 2014,OT Regular,36.0,5878.8,Factory C,Manufacturing,OT
+4432,September 2014,OT Regular,23.0,1865.53,Factory C,"Supply Chain, Logistics and Procurement",OT
+662,September 2014,OT Regular,33.97,2231.83,Factory C,Manufacturing,OT
+6630,September 2014,OT Regular,1.5,409.47,Factory C,"Supply Chain, Logistics and Procurement",OT
+509,September 2014,OT Regular,26.0,2388.36,Factory C,Manufacturing,OT
+472,September 2014,Rest Day Pay,8.0,734.64,Factory C,Manufacturing,Premium Pay
+963,September 2014,OT Regular,40.0,2668.4,Factory C,Manufacturing,OT
+4061,September 2014,OT Regular,35.0,2792.3,Factory C,Manufacturing,OT
+1185,September 2014,Rest Day Pay,8.0,414.16,Factory C,Manufacturing,Premium Pay
+2889,September 2014,Rest Day Pay,8.0,1399.52,Factory C,Manufacturing,Premium Pay
+5046,September 2014,OT Rest day,4.0,391.28,Factory C,Manufacturing,OT
+8730,September 2014,Rest Day Pay,16.0,1239.84,Factory C,Engineering and Technical Support,Premium Pay
+293,September 2014,Rest Day Pay,8.0,529.36,Factory C,Engineering and Technical Support,Premium Pay
+4737,September 2014,Night Premium,12.0,76.56,Factory C,Manufacturing,Night Differential
+6797,September 2014,Rest Day Pay,16.0,1112.96,Factory C,Manufacturing,Premium Pay
+4624,September 2014,OT Regular,27.0,2858.22,Factory C,Manufacturing,OT
+6721,September 2014,Rest Day Pay,16.0,1050.08,Factory C,Engineering and Technical Support,Premium Pay
+1029,September 2014,Rest Day Pay,8.0,1114.96,Factory C,Manufacturing,Premium Pay
+8718,September 2014,Rest Day Premium Pay,8.0,192.96,Factory C,Manufacturing,Premium Pay
+1992,September 2014,OT Regular,8.0,981.12,Factory C,Engineering and Technical Support,OT
+9626,September 2014,Night Premium,28.0,151.2,Factory C,Manufacturing,Night Differential
+2106,September 2014,OT Rest day,7.17,907.94,Factory C,Manufacturing,OT
+7385,September 2014,Night Premium,32.0,176.32,Factory C,Manufacturing,Night Differential
+336,September 2014,Night Premium,4.0,40.56,Factory C,Manufacturing,Night Differential
+3022,September 2014,OT Regular,12.0,957.36,Factory C,Manufacturing,OT
+570,September 2014,Rest Day Pay,16.0,1987.04,Factory C,Engineering and Technical Support,Premium Pay
+564,September 2014,Night Premium,20.0,269.8,Factory C,Manufacturing,Night Differential
+2936,September 2014,OT Special Holiday,4.0,377.8,Factory C,Manufacturing,OT
+919,September 2014,OT Rest day,4.0,470.16,Factory C,Engineering and Technical Support,OT
+8956,September 2014,Rest Day Premium Pay,16.0,287.68,Factory C,Manufacturing,Premium Pay
+273,September 2014,Night Premium,26.0,143.26,Factory C,Manufacturing,Night Differential
+5986,September 2014,Night Premium,36.0,262.08,Factory C,Manufacturing,Night Differential
+4981,September 2014,Rest Day Pay,2.18,152.86,Factory C,Engineering and Technical Support,Premium Pay
+9900,September 2014,Rest Day Pay,16.0,1010.24,Factory C,Manufacturing,Premium Pay
+3124,September 2014,OT Regular,2.95,727.74,Factory C,"Supply Chain, Logistics and Procurement",OT
+8357,September 2014,OT Regular,44.0,3748.36,Factory C,Manufacturing,OT
+5069,September 2014,OT Regular,36.0,11853.36,Factory C,Engineering and Technical Support,OT
+934,September 2014,OT Rest day,4.0,1028.28,Factory C,Manufacturing,OT
+6228,September 2014,OT Regular,28.0,3316.32,Factory C,Manufacturing,OT
+1861,September 2014,OT Regular,32.0,3680.0,Factory C,Manufacturing,OT
+306,September 2014,OT Regular,44.0,13584.12,Factory C,Manufacturing,OT
+5181,September 2014,OT Regular,37.0,4015.61,Factory C,Quality Management,OT
+1392,September 2014,Night Premium,52.0,384.8,Factory C,Manufacturing,Night Differential
+9340,September 2014,Rest Day Pay,8.0,414.16,Factory C,Manufacturing,Premium Pay
+7474,September 2014,Rest Day Pay,8.0,535.92,Factory C,Manufacturing,Premium Pay
+900,September 2014,OT Regular,44.0,8309.4,Factory C,Engineering and Technical Support,OT
+4212,September 2014,Rest Day Pay,8.0,679.52,Factory C,Quality Management,Premium Pay
+1185,September 2014,Rest Day Premium Pay,8.0,124.24,Factory C,Manufacturing,Premium Pay
+8021,September 2014,Rest Day Pay,8.0,1399.52,Factory C,Manufacturing,Premium Pay
+1540,September 2014,OT Regular,36.0,3003.84,Factory C,Manufacturing,OT
+5296,September 2014,OT Regular,38.12,3290.9,Factory C,Manufacturing,OT
+9163,September 2014,Rest Day Premium Pay,8.0,138.8,Factory C,Engineering and Technical Support,Premium Pay
+1969,September 2014,OT Rest day,4.0,830.92,Factory C,Quality Management,OT
+2407,September 2014,OT Regular,47.0,4143.52,Factory C,Quality Management,OT
+4060,September 2014,OT Regular,20.0,1651.0,Factory C,Manufacturing,OT
+4386,September 2014,Night Premium,20.0,103.6,Factory C,Manufacturing,Night Differential
+9767,September 2014,Rest Day Pay,8.0,442.4,Factory C,Manufacturing,Premium Pay
+860,September 2014,OT Regular,16.0,1221.76,Factory C,Manufacturing,OT
+7423,September 2014,Rest Day Pay,14.72,3622.3,Factory C,Engineering and Technical Support,Premium Pay
+4668,September 2014,Night Premium,28.0,194.6,Factory C,Manufacturing,Night Differential
+1775,September 2014,OT Rest day,8.0,1112.8,Factory C,Quality Management,OT
+1040,September 2014,Night Premium,32.0,312.0,Factory C,Manufacturing,Night Differential
+7684,September 2014,Night Premium,28.0,170.52,Factory C,Manufacturing,Night Differential
+8418,September 2014,Rest Day Premium Pay,8.0,142.56,Factory C,Manufacturing,Premium Pay
+9371,September 2014,OT Regular,36.0,6076.08,Factory C,Manufacturing,OT
+7786,September 2014,OT Rest day,8.0,2734.8,Factory C,Manufacturing,OT
+8489,September 2014,OT Regular,56.0,9472.4,Factory C,"Supply Chain, Logistics and Procurement",OT
+1496,September 2014,Rest Day Pay,8.0,517.84,Factory C,Manufacturing,Premium Pay
+954,September 2014,OT Regular,52.0,5774.08,Factory C,Quality Management,OT
+4299,September 2014,Rest Day Premium Pay,8.0,363.44,Factory C,Manufacturing,Premium Pay
+5263,September 2014,Rest Day Premium Pay,8.0,164.56,Factory C,Quality Management,Premium Pay
+9371,September 2014,Rest Day Premium Pay,8.0,324.08,Factory C,Manufacturing,Premium Pay
+982,September 2014,Night Premium,12.0,163.56,Factory C,Engineering and Technical Support,Night Differential
+3486,September 2014,OT Regular,32.0,2742.08,Factory C,Manufacturing,OT
+2933,September 2014,Night Premium,16.0,120.8,Factory C,Manufacturing,Night Differential
+3851,September 2014,Rest Day Premium Pay,16.0,308.16,Factory C,Manufacturing,Premium Pay
+1194,September 2014,Rest Day Premium Pay,8.0,543.92,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+3286,September 2014,OT Regular,45.0,7305.3,Factory C,Quality Management,OT
+2323,September 2014,Night Premium,60.0,361.2,Factory C,Manufacturing,Night Differential
+1861,September 2014,Night Premium,44.0,404.8,Factory C,Manufacturing,Night Differential
+5643,September 2014,OT Regular,32.0,2738.88,Factory C,Manufacturing,OT
+6472,September 2014,OT Regular,27.0,7015.68,Factory C,Manufacturing,OT
+2758,September 2014,Rest Day Premium Pay,16.0,326.88,Factory C,Engineering and Technical Support,Premium Pay
+7029,September 2014,OT Regular,36.0,7281.0,Factory C,Manufacturing,OT
+9526,September 2014,Night Premium,36.0,208.08,Factory C,Engineering and Technical Support,Night Differential
+5210,September 2014,Night Premium,21.0,115.5,Factory C,Engineering and Technical Support,Night Differential
+6740,September 2014,OT Regular,10.0,1474.0,Factory C,Engineering and Technical Support,OT
+2562,September 2014,Rest Day Pay,8.0,555.68,Factory C,Manufacturing,Premium Pay
+9387,September 2014,OT Regular,44.0,4736.16,Factory C,Engineering and Technical Support,OT
+6593,September 2014,Rest Day Premium Pay,8.0,130.4,Factory C,Manufacturing,Premium Pay
+1182,September 2014,OT Rest day,4.75,483.03,Factory C,Manufacturing,OT
+8748,September 2014,Rest Day Premium Pay,8.0,468.4,Factory C,Manufacturing,Premium Pay
+6732,September 2014,Night Premium,32.0,311.36,Factory C,Manufacturing,Night Differential
+6709,September 2014,Rest Day Premium Pay,8.0,349.92,Factory C,Manufacturing,Premium Pay
+3644,September 2014,Rest Day Premium Pay,8.0,177.52,Factory C,Quality Management,Premium Pay
+5061,September 2014,OT Regular,44.0,3774.76,Factory C,Manufacturing,OT
+7955,September 2014,OT Rest day,3.82,363.32,Factory C,Manufacturing,OT
+1029,September 2014,OT Rest day,7.77,1830.15,Factory C,Manufacturing,OT
+5111,September 2014,Rest Day Premium Pay,16.0,349.6,Factory C,Manufacturing,Premium Pay
+7973,September 2014,OT Regular,37.17,5057.35,Factory C,Manufacturing,OT
+4083,September 2014,OT Regular,40.0,2687.6,Factory C,Manufacturing,OT
+8479,September 2014,OT Rest day,4.0,628.0,Factory C,Manufacturing,OT
+9526,September 2014,OT Regular,44.0,3181.2,Factory C,Engineering and Technical Support,OT
+5092,September 2014,Rest Day Pay,16.0,2024.32,Factory C,Manufacturing,Premium Pay
+4793,September 2014,Rest Day Premium Pay,8.0,197.2,Factory C,Engineering and Technical Support,Premium Pay
+3950,September 2014,OT Rest day,4.0,1359.56,Factory C,Manufacturing,OT
+1729,September 2014,Rest Day Premium Pay,16.0,330.88,Factory C,Manufacturing,Premium Pay
+5589,September 2014,Rest Day Pay,16.0,1478.08,Factory C,Quality Management,Premium Pay
+9295,September 2014,Rest Day Pay,8.0,522.16,Factory C,Manufacturing,Premium Pay
+2579,September 2014,Rest Day Premium Pay,8.0,144.48,Factory C,Manufacturing,Premium Pay
+4064,September 2014,Rest Day Premium Pay,8.0,164.4,Factory C,Manufacturing,Premium Pay
+6988,September 2014,Night Premium,28.0,248.36,Factory C,Manufacturing,Night Differential
+2442,September 2014,Rest Day Premium Pay,8.0,151.28,Factory C,Manufacturing,Premium Pay
+4966,September 2014,OT Regular,52.0,3554.72,Factory C,Engineering and Technical Support,OT
+4447,September 2014,OT Regular,16.0,1990.4,Factory C,Manufacturing,OT
+1287,September 2014,OT Regular,21.0,3429.3,Factory C,Manufacturing,OT
+2496,September 2014,Night Premium,36.0,231.84,Factory C,Manufacturing,Night Differential
+8621,September 2014,Rest Day Premium Pay,8.0,130.56,Factory C,Manufacturing,Premium Pay
+5543,September 2014,Night Premium,12.0,91.2,Factory C,Manufacturing,Night Differential
+8782,September 2014,OT Rest day,6.0,628.98,Factory C,Manufacturing,OT
+7409,September 2014,Night Premium,16.0,229.28,Factory C,Manufacturing,Night Differential
+1949,September 2014,OT Regular,36.0,6340.68,Factory C,Engineering and Technical Support,OT
+3397,September 2014,Rest Day Premium Pay,8.0,138.8,Factory C,Manufacturing,Premium Pay
+3086,September 2014,OT Regular,48.0,4311.84,Factory C,Manufacturing,OT
+9815,September 2014,Night Premium,52.0,313.04,Factory C,Manufacturing,Night Differential
+1913,September 2014,OT Regular,52.0,9200.88,Factory C,Manufacturing,OT
+6251,September 2014,Rest Day Premium Pay,8.0,320.32,Factory C,Manufacturing,Premium Pay
+7615,September 2014,Rest Day Premium Pay,8.0,170.56,Factory C,Engineering and Technical Support,Premium Pay
+6373,September 2014,OT Regular,16.0,1087.2,Factory C,Manufacturing,OT
+6214,September 2014,Night Premium,24.0,360.96,Factory C,Manufacturing,Night Differential
+4095,September 2014,Rest Day Premium Pay,16.0,388.8,Factory C,Engineering and Technical Support,Premium Pay
+9996,September 2014,Rest Day Pay,16.0,1094.4,Factory C,Manufacturing,Premium Pay
+4839,September 2014,Rest Day Premium Pay,8.0,234.16,Factory C,Manufacturing,Premium Pay
+6081,September 2014,Night Premium,36.0,191.52,Factory C,Manufacturing,Night Differential
+1807,September 2014,Rest Day Premium Pay,8.0,432.64,Factory C,Manufacturing,Premium Pay
+640,September 2014,OT Regular,47.0,4274.65,Factory C,Manufacturing,OT
+5061,September 2014,Rest Day Pay,16.0,1098.08,Factory C,Manufacturing,Premium Pay
+7758,September 2014,OT Rest day,7.97,3043.11,Factory C,Manufacturing,OT
+9028,September 2014,OT Regular,43.08,6030.34,Factory C,Engineering and Technical Support,OT
+3224,September 2014,OT Rest day,4.0,370.52,Factory C,Manufacturing,OT
+5372,September 2014,Special Holiday Premium,8.0,135.92,Factory C,Manufacturing,Premium Pay
+2762,September 2014,Rest Day Pay,8.0,442.4,Factory C,Manufacturing,Premium Pay
+8095,September 2014,Night Premium,20.0,105.8,Factory C,"Supply Chain, Logistics and Procurement",Night Differential
+8794,September 2014,OT Rest day,5.76,943.08,Factory C,Manufacturing,OT
+7437,September 2014,OT Regular,49.38,4144.46,Factory C,Manufacturing,OT
+2267,September 2014,Night Premium,20.0,371.6,Factory C,Manufacturing,Night Differential
+3617,September 2014,Night Premium,44.0,318.12,Factory C,Manufacturing,Night Differential
+6946,September 2014,OT Rest day,4.0,465.88,Factory C,Quality Management,OT
+5193,September 2014,OT Regular,39.5,7500.26,Factory C,"Supply Chain, Logistics and Procurement",OT
+7945,September 2014,Rest Day Pay,16.0,1188.64,Factory C,Manufacturing,Premium Pay
+3505,September 2014,Night Premium,20.0,370.4,Factory C,Manufacturing,Night Differential
+888,September 2014,OT Regular,14.0,4501.14,Factory C,Engineering and Technical Support,OT
+1749,September 2014,OT Special Holiday,4.0,495.24,Factory C,Manufacturing,OT
+8537,September 2014,Night Premium,32.0,213.12,Factory C,Manufacturing,Night Differential
+8227,September 2014,OT Regular,16.0,2223.68,Factory C,Manufacturing,OT
+7471,September 2014,Night Premium,28.0,218.4,Factory C,Quality Management,Night Differential
+422,September 2014,OT Special Holiday,4.0,375.44,Factory C,Manufacturing,OT
+6300,September 2014,OT Rest day,5.42,562.33,Factory C,Manufacturing,OT
+8267,September 2014,Rest Day Premium Pay,8.0,156.0,Factory C,Manufacturing,Premium Pay
+4196,September 2014,Night Premium,12.0,88.56,Factory C,Engineering and Technical Support,Night Differential
+7754,September 2014,Rest Day Premium Pay,16.0,288.96,Factory C,Manufacturing,Premium Pay
+834,September 2014,Rest Day Pay,8.0,889.44,Factory C,Manufacturing,Premium Pay
+1855,September 2014,OT Regular,24.0,1953.36,Factory C,Manufacturing,OT
+6531,September 2014,OT Rest day,4.0,484.0,Factory C,Quality Management,OT
+8023,September 2014,Rest Day Pay,8.0,743.12,Factory C,Manufacturing,Premium Pay
+3454,September 2014,OT Regular,43.0,3679.94,Factory C,Manufacturing,OT
+9964,September 2014,Night Premium,16.0,208.96,Factory C,Manufacturing,Night Differential
+2631,September 2014,Night Premium,32.0,174.72,Factory C,Manufacturing,Night Differential
+7029,September 2014,Rest Day Pay,8.0,1294.4,Factory C,Manufacturing,Premium Pay
+2588,September 2014,OT Regular,24.0,2972.16,Factory C,Manufacturing,OT
+8314,September 2014,Night Premium,44.0,284.68,Factory C,Manufacturing,Night Differential
+962,September 2014,Night Premium,8.0,46.72,Factory C,Manufacturing,Night Differential
+8167,September 2014,OT Regular,39.0,7355.01,Factory C,Manufacturing,OT
+2325,September 2014,OT Regular,19.0,4281.84,Factory C,Legal and Compliance,OT
+7243,September 2014,Rest Day Pay,8.0,423.84,Factory C,Manufacturing,Premium Pay
+8838,September 2014,Rest Day Pay,8.0,423.84,Factory C,Manufacturing,Premium Pay
+9291,September 2014,Rest Day Pay,16.0,954.88,Factory C,Manufacturing,Premium Pay
+6580,September 2014,OT Regular,20.0,5382.8,Factory C,Manufacturing,OT
+8968,September 2014,Rest Day Premium Pay,16.0,477.92,Factory C,Manufacturing,Premium Pay
+5200,September 2014,OT Regular,32.0,4291.2,Factory C,Manufacturing,OT
+8051,September 2014,Rest Day Pay,16.0,2995.2,Factory C,Quality Management,Premium Pay
+4835,September 2014,OT Regular,27.0,3375.81,Factory C,Manufacturing,OT
+5142,September 2014,OT Regular,20.0,2757.0,Factory C,Manufacturing,OT
+5534,September 2014,Night Premium,32.0,432.0,Factory C,Manufacturing,Night Differential
+2402,September 2014,Special Holiday Premium,5.83,122.43,Factory C,Manufacturing,Premium Pay
+8718,September 2014,OT Regular,36.0,3617.64,Factory C,Manufacturing,OT
+5559,September 2014,OT Regular,36.89,3478.73,Factory C,Manufacturing,OT
+9894,September 2014,Night Premium,12.0,159.84,Factory C,Manufacturing,Night Differential
+9389,September 2014,Rest Day Pay,8.0,540.0,Factory C,Quality Management,Premium Pay
+2477,September 2014,Rest Day Premium Pay,16.0,298.88,Factory C,Manufacturing,Premium Pay
+7236,September 2014,OT Rest day,4.0,405.68,Factory C,Manufacturing,OT
+7839,September 2014,OT Regular,40.0,2882.4,Factory C,Engineering and Technical Support,OT
+3647,September 2014,OT Regular,25.64,6544.87,Factory C,Manufacturing,OT
+6764,September 2014,OT Rest day,6.04,545.77,Factory C,Manufacturing,OT
+900,September 2014,Night Premium,32.0,483.52,Factory C,Engineering and Technical Support,Night Differential
+1666,September 2014,OT Regular,54.0,4503.06,Factory C,Engineering and Technical Support,OT
+2478,September 2014,Night Premium,32.0,257.28,Factory C,Manufacturing,Night Differential
+9213,September 2014,OT Regular,28.0,6769.28,Factory C,Manufacturing,OT
+5445,September 2014,Rest Day Premium Pay,8.0,291.84,Factory C,Manufacturing,Premium Pay
+5097,September 2014,OT Regular,36.0,2329.56,Factory C,Manufacturing,OT
+668,September 2014,OT Rest day,4.0,363.4,Factory C,Manufacturing,OT
+9247,September 2014,OT Special Holiday,4.0,647.96,Factory C,Quality Management,OT
+1438,September 2014,Rest Day Premium Pay,16.0,328.16,Factory C,Manufacturing,Premium Pay
+5938,September 2014,OT Rest day,3.97,746.56,Factory C,Quality Management,OT
+8537,September 2014,OT Regular,32.0,2663.68,Factory C,Manufacturing,OT
+5242,September 2014,OT Rest day,7.37,816.6,Factory C,Quality Management,OT
+3552,September 2014,Night Premium,30.0,208.2,Factory C,Quality Management,Night Differential
+682,September 2014,Night Premium,4.0,50.8,Factory C,Manufacturing,Night Differential
+9687,September 2014,Rest Day Pay,8.0,608.08,Factory C,Manufacturing,Premium Pay
+8561,September 2014,OT Regular,56.0,12233.76,Factory C,Manufacturing,OT
+1438,September 2014,OT Rest day,7.0,808.85,Factory C,Manufacturing,OT
+3602,September 2014,Night Premium,24.0,296.64,Factory C,Quality Management,Night Differential
+1807,September 2014,Rest Day Premium Pay,7.83,423.45,Factory C,Manufacturing,Premium Pay
+5277,September 2014,Night Premium,52.0,540.8,Factory C,Quality Management,Night Differential
+9880,September 2014,Rest Day Pay,16.0,1629.92,Factory C,Manufacturing,Premium Pay
+637,September 2014,Night Premium,20.0,147.0,Factory C,Manufacturing,Night Differential
+5786,September 2014,Night Premium,12.0,112.68,Factory C,Manufacturing,Night Differential
+6194,September 2014,OT Regular,8.0,681.52,Factory C,Manufacturing,OT
+6756,September 2014,Rest Day Pay,8.0,549.44,Factory C,Manufacturing,Premium Pay
+9992,September 2014,Special Holiday Premium,8.0,162.8,Factory C,Manufacturing,Premium Pay
+8952,September 2014,Night Premium,40.0,626.8,Factory C,Manufacturing,Night Differential
+1327,September 2014,Night Premium,8.0,54.48,Factory C,Quality Management,Night Differential
+7274,September 2014,Rest Day Premium Pay,16.0,258.4,Factory C,Manufacturing,Premium Pay
+79,September 2014,OT Regular,32.0,2764.16,Factory C,Manufacturing,OT
+2904,September 2014,OT Regular,44.0,4147.0,Factory C,Manufacturing,OT
+4370,September 2014,Rest Day Premium Pay,8.0,284.08,Factory C,Quality Management,Premium Pay
+7776,September 2014,OT Regular,13.0,1593.15,Factory C,Manufacturing,OT
+3420,September 2014,Special Holiday Premium,8.0,180.56,Factory C,Manufacturing,Premium Pay
+892,September 2014,OT Regular,40.0,9799.2,Factory C,Quality Management,OT
+4680,September 2014,OT Regular,16.0,3548.8,Factory C,Manufacturing,OT
+4860,September 2014,OT Regular,32.0,3994.56,Factory C,Manufacturing,OT
+375,September 2014,OT Regular,8.0,892.08,Factory C,Manufacturing,OT
+8891,September 2014,OT Regular,51.0,4178.43,Factory C,Manufacturing,OT
+5756,September 2014,OT Regular,45.0,3159.0,Factory C,Manufacturing,OT
+7177,September 2014,Rest Day Pay,8.0,2246.16,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+834,September 2014,Night Premium,28.0,311.36,Factory C,Manufacturing,Night Differential
+3972,September 2014,Night Premium,52.0,378.56,Factory C,Manufacturing,Night Differential
+1654,September 2014,Night Premium,28.0,152.32,Factory C,Manufacturing,Night Differential
+9371,September 2014,Rest Day Premium Pay,8.0,324.08,Factory C,Manufacturing,Premium Pay
+3649,September 2014,Night Premium,32.0,227.52,Factory C,Manufacturing,Night Differential
+4582,September 2014,Rest Day Pay,8.0,688.08,Factory C,Manufacturing,Premium Pay
+4369,September 2014,Night Premium,16.0,84.64,Factory C,Manufacturing,Night Differential
+3438,September 2014,OT Regular,8.0,724.64,Factory C,Legal and Compliance,OT
+2936,September 2014,Rest Day Pay,8.0,447.12,Factory C,Manufacturing,Premium Pay
+4286,September 2014,Rest Day Premium Pay,8.0,368.48,Factory C,Manufacturing,Premium Pay
+6311,September 2014,OT Regular,40.0,2884.4,Factory C,Engineering and Technical Support,OT
+5853,September 2014,OT Regular,64.0,10451.2,Factory C,Manufacturing,OT
+3556,September 2014,OT Rest day,8.0,981.44,Factory C,Engineering and Technical Support,OT
+711,September 2014,OT Regular,37.0,2775.0,Factory C,Manufacturing,OT
+9753,September 2014,OT Regular,44.0,9681.32,Factory C,Quality Management,OT
+5540,September 2014,OT Regular,40.0,3274.0,Factory C,Manufacturing,OT
+4722,September 2014,OT Regular,36.0,6864.48,Factory C,Manufacturing,OT
+78,September 2014,Rest Day Pay,4.0,251.52,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+1389,September 2014,OT Regular,25.15,2384.22,Factory C,Manufacturing,OT
+2910,September 2014,Rest Day Premium Pay,8.0,438.4,Factory C,Manufacturing,Premium Pay
+3752,September 2014,OT Regular,44.0,7258.24,Factory C,Manufacturing,OT
+4223,September 2014,OT Regular,32.0,5876.16,Factory C,Manufacturing,OT
+417,September 2014,OT Regular,48.0,12289.92,Factory C,"Supply Chain, Logistics and Procurement",OT
+6795,September 2014,Night Premium,12.0,160.92,Factory C,Engineering and Technical Support,Night Differential
+3947,September 2014,Rest Day Pay,8.0,592.96,Factory C,Manufacturing,Premium Pay
+9943,September 2014,OT Regular,41.5,10379.15,Factory C,Manufacturing,OT
+3737,September 2014,OT Special Holiday,4.0,517.96,Factory C,Manufacturing,OT
+2869,September 2014,OT Regular,36.0,2861.64,Factory C,Manufacturing,OT
+560,September 2014,OT Regular,23.3,7366.06,Factory C,Engineering and Technical Support,OT
+386,September 2014,OT Rest day,8.0,1823.68,Factory C,Engineering and Technical Support,OT
+2120,September 2014,Rest Day Premium Pay,8.0,204.64,Factory C,Manufacturing,Premium Pay
+343,September 2014,Special Holiday Premium,8.0,161.52,Factory C,Manufacturing,Premium Pay
+9509,September 2014,Rest Day Premium Pay,11.82,188.88,Factory C,Manufacturing,Premium Pay
+4839,September 2014,Night Premium,52.0,507.52,Factory C,Manufacturing,Night Differential
+5505,September 2014,Rest Day Pay,8.0,862.32,Factory C,Manufacturing,Premium Pay
+8207,September 2014,OT Regular,42.0,11190.48,Factory C,Manufacturing,OT
+6436,September 2014,Special Holiday Premium,6.0,164.22,Factory C,Quality Management,Premium Pay
+5584,September 2014,OT Rest day,4.0,643.48,Factory C,Engineering and Technical Support,OT
+9357,September 2014,OT Regular,45.0,7507.8,Factory C,Engineering and Technical Support,OT
+8418,September 2014,Night Premium,8.0,47.52,Factory C,Manufacturing,Night Differential
+666,September 2014,OT Regular,6.5,1496.3,Factory C,Engineering and Technical Support,OT
+7781,September 2014,Night Premium,52.0,279.76,Factory C,Manufacturing,Night Differential
+1155,September 2014,Rest Day Pay,16.0,1217.76,Factory C,Manufacturing,Premium Pay
+6222,September 2014,OT Regular,48.0,5944.32,Factory C,Engineering and Technical Support,OT
+7534,September 2014,OT Rest day,4.0,379.84,Factory C,Manufacturing,OT
+6842,September 2014,OT Regular,12.0,1109.16,Factory C,Manufacturing,OT
+6885,September 2014,OT Rest day,4.0,777.48,Factory C,Quality Management,OT
+9234,September 2014,OT Regular,39.85,9098.95,Factory C,Manufacturing,OT
+9427,September 2014,OT Special Holiday,4.0,439.8,Factory C,Manufacturing,OT
+3093,September 2014,Rest Day Premium Pay,8.0,125.6,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+8019,September 2014,Night Premium,8.0,43.76,Factory C,Manufacturing,Night Differential
+446,September 2014,OT Regular,35.02,3012.77,Factory C,Manufacturing,OT
+3298,September 2014,Rest Day Pay,8.0,534.88,Factory C,Manufacturing,Premium Pay
+2104,September 2014,OT Rest day,3.92,364.17,Factory C,Manufacturing,OT
+9856,September 2014,OT Regular,1.0,93.53,Factory C,"Supply Chain, Logistics and Procurement",OT
+5729,September 2014,Rest Day Premium Pay,11.41,341.84,Factory C,Engineering and Technical Support,Premium Pay
+4505,September 2014,OT Regular,31.03,3842.76,Factory C,Manufacturing,OT
+3978,September 2014,Night Premium,24.0,170.4,Factory C,Manufacturing,Night Differential
+7981,September 2014,Rest Day Pay,16.0,876.96,Factory C,Manufacturing,Premium Pay
+3176,September 2014,OT Regular,38.0,3451.54,Factory C,Manufacturing,OT
+8444,September 2014,OT Rest day,7.6,1260.54,Factory C,Manufacturing,OT
+6611,September 2014,Night Premium,32.0,366.72,Factory C,Engineering and Technical Support,Night Differential
+4157,September 2014,Rest Day Pay,8.0,543.2,Factory C,Manufacturing,Premium Pay
+7953,September 2014,OT Regular,34.0,8110.36,Factory C,Engineering and Technical Support,OT
+6545,September 2014,OT Regular,40.0,3191.2,Factory C,Manufacturing,OT
+2874,September 2014,OT Regular,12.0,776.52,Factory C,Manufacturing,OT
+1732,September 2014,OT Regular,24.0,2001.6,Factory C,Manufacturing,OT
+7620,September 2014,Rest Day Pay,8.0,602.88,Factory C,Manufacturing,Premium Pay
+3343,September 2014,Rest Day Premium Pay,16.0,892.64,Factory C,Manufacturing,Premium Pay
+6486,September 2014,Night Premium,24.0,239.76,Factory C,Manufacturing,Night Differential
+5903,September 2014,Night Premium,12.0,81.36,Factory C,Manufacturing,Night Differential
+1804,September 2014,Night Premium,20.0,191.8,Factory C,Quality Management,Night Differential
+7286,September 2014,Rest Day Pay,16.0,1747.68,Factory C,Manufacturing,Premium Pay
+2415,September 2014,OT Rest day,8.0,752.56,Factory C,Manufacturing,OT
+1913,September 2014,Rest Day Premium Pay,8.0,339.76,Factory C,Manufacturing,Premium Pay
+522,September 2014,OT Regular,52.0,4563.52,Factory C,Manufacturing,OT
+7105,September 2014,OT Rest day,3.22,290.32,Factory C,Manufacturing,OT
+4488,September 2014,Night Premium,8.0,51.52,Factory C,Manufacturing,Night Differential
+8991,September 2014,OT Regular,37.14,2790.7,Factory C,Manufacturing,OT
+9753,September 2014,Rest Day Pay,16.0,2816.32,Factory C,Quality Management,Premium Pay
+735,September 2014,OT Regular,36.0,3069.36,Factory C,Manufacturing,OT
+9873,September 2014,OT Regular,50.4,4002.26,Factory C,Engineering and Technical Support,OT
+3095,September 2014,OT Regular,43.0,3617.59,Factory C,Manufacturing,OT
+2277,September 2014,OT Regular,52.0,4130.36,Factory C,Engineering and Technical Support,OT
+1334,September 2014,OT Regular,31.0,2606.79,Factory C,Manufacturing,OT
+7109,September 2014,OT Regular,40.0,3180.4,Factory C,Manufacturing,OT
+561,September 2014,Night Premium,40.0,199.2,Factory C,"Supply Chain, Logistics and Procurement",Night Differential
+6654,September 2014,Rest Day Premium Pay,8.0,547.6,Factory C,Manufacturing,Premium Pay
+1331,September 2014,Night Premium,16.0,139.04,Factory C,Quality Management,Night Differential
+2170,September 2014,Night Premium,8.0,56.88,Factory C,Quality Management,Night Differential
+7227,September 2014,OT Regular,48.0,4022.88,Factory C,Manufacturing,OT
+6667,September 2014,Rest Day Premium Pay,7.0,274.75,Factory C,Engineering and Technical Support,Premium Pay
+1779,September 2014,OT Regular,40.0,5219.6,Factory C,Quality Management,OT
+2120,September 2014,OT Rest day,5.8,835.9,Factory C,Manufacturing,OT
+176,September 2014,Night Premium,24.0,208.32,Factory C,Quality Management,Night Differential
+2477,September 2014,Night Premium,48.0,299.04,Factory C,Manufacturing,Night Differential
+7226,September 2014,Special Holiday Premium,8.0,184.88,Factory C,Manufacturing,Premium Pay
+9964,September 2014,OT Regular,32.0,5225.6,Factory C,Manufacturing,OT
+6489,September 2014,Rest Day Premium Pay,8.0,166.48,Factory C,Manufacturing,Premium Pay
+1496,September 2014,Rest Day Premium Pay,8.0,155.36,Factory C,Manufacturing,Premium Pay
+3224,September 2014,OT Regular,28.0,1918.28,Factory C,Manufacturing,OT
+8618,September 2014,OT Regular,40.0,5080.0,Factory C,Engineering and Technical Support,OT
+481,September 2014,Rest Day Pay,8.0,792.8,Factory C,Manufacturing,Premium Pay
+7599,September 2014,Night Premium,24.0,134.88,Factory C,Manufacturing,Night Differential
+2006,September 2014,OT Regular,35.0,3300.85,Factory C,Manufacturing,OT
+6956,September 2014,Rest Day Pay,8.0,1911.04,Factory C,Manufacturing,Premium Pay
+965,September 2014,OT Regular,76.0,6063.28,Factory C,Manufacturing,OT
+9912,September 2014,Rest Day Premium Pay,16.0,648.16,Factory C,Engineering and Technical Support,Premium Pay
+4692,September 2014,Rest Day Premium Pay,8.0,212.72,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+3060,September 2014,OT Regular,20.0,1707.0,Factory C,Manufacturing,OT
+3807,September 2014,Night Premium,44.0,326.04,Factory C,Engineering and Technical Support,Night Differential
+8745,September 2014,Rest Day Pay,16.0,2406.56,Factory C,Engineering and Technical Support,Premium Pay
+9966,September 2014,OT Rest day,4.0,435.08,Factory C,Manufacturing,OT
+5306,September 2014,Rest Day Premium Pay,8.0,159.92,Factory C,Manufacturing,Premium Pay
+6081,September 2014,OT Rest day,0.95,85.46,Factory C,Manufacturing,OT
+9702,September 2014,OT Regular,40.0,3139.2,Factory C,Manufacturing,OT
+7874,September 2014,Night Premium,28.0,191.8,Factory C,Manufacturing,Night Differential
+6496,September 2014,Rest Day Pay,8.0,545.52,Factory C,Manufacturing,Premium Pay
+6678,September 2014,OT Regular,24.0,1631.76,Factory C,Manufacturing,OT
+9144,September 2014,OT Regular,36.0,3306.96,Factory C,Manufacturing,OT
+4737,September 2014,OT Rest day,3.97,427.73,Factory C,Manufacturing,OT
+9,September 2014,Rest Day Premium Pay,8.0,153.2,Factory C,Manufacturing,Premium Pay
+7781,September 2014,Rest Day Premium Pay,16.0,258.4,Factory C,Manufacturing,Premium Pay
+4162,September 2014,OT Special Holiday,4.0,375.44,Factory C,Manufacturing,OT
+4634,September 2014,Rest Day Premium Pay,16.0,721.92,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+6157,September 2014,OT Regular,40.0,3380.0,Factory C,Manufacturing,OT
+8024,September 2014,Night Premium,8.0,54.32,Factory C,Manufacturing,Night Differential
+7480,September 2014,Night Premium,28.0,214.2,Factory C,Manufacturing,Night Differential
+8786,September 2014,Rest Day Premium Pay,16.0,667.2,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+2627,September 2014,Special Holiday Premium,2.0,38.56,Factory C,Manufacturing,Premium Pay
+9375,September 2014,Night Premium,16.0,109.6,Factory C,Quality Management,Night Differential
+7357,September 2014,Rest Day Pay,16.0,1002.24,Factory C,Manufacturing,Premium Pay
+7988,September 2014,Rest Day Premium Pay,16.0,839.68,Factory C,Engineering and Technical Support,Premium Pay
+82,September 2014,Rest Day Premium Pay,16.0,721.76,Factory C,Engineering and Technical Support,Premium Pay
+9612,September 2014,OT Rest day,4.0,558.44,Factory C,Quality Management,OT
+5218,September 2014,Rest Day Pay,8.0,382.4,Factory C,Manufacturing,Premium Pay
+1817,September 2014,Rest Day Pay,16.0,869.28,Factory C,Manufacturing,Premium Pay
+9733,September 2014,OT Regular,20.82,5069.88,Factory C,Engineering and Technical Support,OT
+7251,September 2014,Rest Day Premium Pay,8.0,128.72,Factory C,Engineering and Technical Support,Premium Pay
+6965,September 2014,OT Regular,28.0,1898.68,Factory C,Manufacturing,OT
+9481,September 2014,Night Premium,68.0,1627.92,Factory C,Manufacturing,Night Differential
+3747,September 2014,OT Regular,22.28,1578.32,Factory C,Manufacturing,OT
+4704,September 2014,OT Regular,48.0,6044.64,Factory C,Engineering and Technical Support,OT
+4856,September 2014,OT Special Holiday,2.3,778.57,Factory C,Manufacturing,OT
+4514,September 2014,OT Regular,18.5,2127.5,Factory C,Manufacturing,OT
+2356,September 2014,Night Premium,28.0,231.0,Factory C,Quality Management,Night Differential
+543,September 2014,Rest Day Pay,8.0,989.68,Factory C,Quality Management,Premium Pay
+4591,September 2014,OT Rest day,7.92,1182.3,Factory C,Manufacturing,OT
+7758,September 2014,Rest Day Pay,16.0,3614.88,Factory C,Manufacturing,Premium Pay
+421,September 2014,Rest Day Pay,8.0,382.4,Factory C,Manufacturing,Premium Pay
+876,September 2014,OT Regular,28.0,2352.84,Factory C,Manufacturing,OT
+8277,September 2014,Rest Day Premium Pay,8.0,287.68,Factory C,Quality Management,Premium Pay
+5210,September 2014,OT Special Holiday,4.0,372.0,Factory C,Engineering and Technical Support,OT
+436,September 2014,Rest Day Pay,8.0,1686.8,Factory C,Manufacturing,Premium Pay
+3850,September 2014,OT Regular,47.0,4609.76,Factory C,Manufacturing,OT
+2567,September 2014,Night Premium,32.0,165.76,Factory C,Manufacturing,Night Differential
+868,September 2014,Rest Day Premium Pay,8.0,171.28,Factory C,Quality Management,Premium Pay
+9266,September 2014,Special Holiday Premium,8.0,564.0,Factory C,Engineering and Technical Support,Premium Pay
+6193,September 2014,Night Premium,16.0,234.88,Factory C,Manufacturing,Night Differential
+8169,September 2014,Night Premium,20.0,131.6,Factory C,Manufacturing,Night Differential
+5749,September 2014,Rest Day Premium Pay,16.0,464.16,Factory C,Engineering and Technical Support,Premium Pay
+5626,September 2014,Rest Day Premium Pay,16.0,477.12,Factory C,Manufacturing,Premium Pay
+6256,September 2014,OT Regular,28.0,2813.72,Factory C,Manufacturing,OT
+3155,September 2014,Rest Day Premium Pay,16.0,721.76,Factory C,Manufacturing,Premium Pay
+5864,September 2014,OT Regular,16.0,3007.04,Factory C,Manufacturing,OT
+5153,September 2014,Rest Day Premium Pay,8.0,181.12,Factory C,Manufacturing,Premium Pay
+2692,September 2014,Night Premium,44.0,304.92,Factory C,Manufacturing,Night Differential
+9006,September 2014,OT Regular,52.0,6744.92,Factory C,Manufacturing,OT
+4787,September 2014,Rest Day Premium Pay,16.0,412.8,Factory C,Manufacturing,Premium Pay
+208,September 2014,OT Regular,52.0,6491.16,Factory C,Manufacturing,OT
+1050,September 2014,Night Premium,32.0,165.76,Factory C,Manufacturing,Night Differential
+4275,September 2014,OT Regular,4.0,324.92,Factory C,Manufacturing,OT
+7227,September 2014,Night Premium,48.0,322.08,Factory C,Manufacturing,Night Differential
+5401,September 2014,Night Premium,16.0,380.96,Factory C,Engineering and Technical Support,Night Differential
+6597,September 2014,OT Regular,12.0,969.6,Factory C,Manufacturing,OT
+472,September 2014,Rest Day Pay,8.0,734.64,Factory C,Manufacturing,Premium Pay
+5951,September 2014,OT Rest day,4.0,707.84,Factory C,Manufacturing,OT
+5729,September 2014,Night Premium,24.0,239.76,Factory C,Engineering and Technical Support,Night Differential
+3229,September 2014,OT Rest day,8.0,1018.72,Factory C,Manufacturing,OT
+3633,September 2014,OT Special Holiday,4.0,373.84,Factory C,Manufacturing,OT
+4092,September 2014,Night Premium,36.0,459.0,Factory C,Manufacturing,Night Differential
+4444,September 2014,OT Rest day,8.0,1142.0,Factory C,Engineering and Technical Support,OT
+2552,September 2014,OT Rest day,4.08,523.34,Factory C,Engineering and Technical Support,OT
+5323,September 2014,Rest Day Premium Pay,6.5,225.49,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+411,September 2014,OT Regular,45.0,4133.7,Factory C,Manufacturing,OT
+7609,September 2014,Rest Day Premium Pay,7.9,129.96,Factory C,Manufacturing,Premium Pay
+6541,September 2014,OT Regular,28.0,3825.08,Factory C,Manufacturing,OT
+5902,September 2014,Rest Day Premium Pay,8.0,143.68,Factory C,Manufacturing,Premium Pay
+1343,September 2014,Night Premium,20.0,118.0,Factory C,Manufacturing,Night Differential
+4648,September 2014,Rest Day Premium Pay,8.0,417.04,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+7615,September 2014,Rest Day Premium Pay,16.0,341.12,Factory C,Engineering and Technical Support,Premium Pay
+5938,September 2014,Rest Day Pay,8.0,890.16,Factory C,Quality Management,Premium Pay
+5950,September 2014,OT Regular,40.0,8935.2,Factory C,Manufacturing,OT
+3879,September 2014,OT Regular,36.0,3974.04,Factory C,Quality Management,OT
+6526,September 2014,Night Premium,8.0,58.96,Factory C,Manufacturing,Night Differential
+3843,September 2014,Rest Day Pay,16.0,1719.04,Factory C,Manufacturing,Premium Pay
+9702,September 2014,OT Rest day,4.0,424.4,Factory C,Manufacturing,OT
+7365,September 2014,OT Regular,44.0,3510.32,Factory C,Manufacturing,OT
+123,September 2014,Night Premium,44.0,321.64,Factory C,Manufacturing,Night Differential
+8575,September 2014,Rest Day Premium Pay,16.0,486.72,Factory C,Manufacturing,Premium Pay
+7695,September 2014,Special Holiday Premium,8.0,144.64,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+322,September 2014,OT Regular,48.0,3724.32,Factory C,Manufacturing,OT
+7772,September 2014,OT Regular,16.0,2300.16,Factory C,Quality Management,OT
+8131,September 2014,Night Premium,52.0,282.88,Factory C,Manufacturing,Night Differential
+1284,September 2014,OT Regular,23.0,2871.09,Factory C,Manufacturing,OT
+4674,September 2014,Rest Day Premium Pay,7.15,229.01,Factory C,Manufacturing,Premium Pay
+4223,September 2014,OT Rest day,2.0,496.52,Factory C,Manufacturing,OT
+8615,September 2014,Rest Day Pay,8.0,1092.48,Factory C,Manufacturing,Premium Pay
+959,September 2014,Rest Day Premium Pay,16.0,314.88,Factory C,Engineering and Technical Support,Premium Pay
+4521,September 2014,Rest Day Pay,15.97,1030.22,Factory C,Manufacturing,Premium Pay
+3336,September 2014,Rest Day Premium Pay,8.0,174.4,Factory C,Engineering and Technical Support,Premium Pay
+545,September 2014,OT Rest day,4.0,1025.44,Factory C,Manufacturing,OT
+4003,September 2014,OT Rest day,3.0,381.78,Factory C,Manufacturing,OT
+7383,September 2014,Rest Day Premium Pay,8.0,158.08,Factory C,Engineering and Technical Support,Premium Pay
+9953,September 2014,OT Rest day,1.57,404.73,Factory C,Manufacturing,OT
+9928,September 2014,Rest Day Pay,8.0,1220.8,Factory C,Manufacturing,Premium Pay
+1163,September 2014,Special Holiday Premium,10.25,216.89,Factory C,Manufacturing,Premium Pay
+8116,September 2014,Rest Day Premium Pay,8.0,219.44,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+3960,September 2014,Rest Day Premium Pay,8.0,484.96,Factory C,Manufacturing,Premium Pay
+527,September 2014,OT Regular,28.98,1975.86,Factory C,"Supply Chain, Logistics and Procurement",OT
+7338,September 2014,Night Premium,52.0,341.12,Factory C,Manufacturing,Night Differential
+9319,September 2014,Night Premium,24.0,217.44,Factory C,Manufacturing,Night Differential
+2143,September 2014,OT Rest day,7.0,864.29,Factory C,Manufacturing,OT
+8656,September 2014,Rest Day Premium Pay,16.0,334.88,Factory C,Manufacturing,Premium Pay
+4544,September 2014,Night Premium,16.0,88.32,Factory C,Manufacturing,Night Differential
+9918,September 2014,Night Premium,8.0,68.8,Factory C,Manufacturing,Night Differential
+4371,September 2014,OT Regular,48.0,4057.92,Factory C,Manufacturing,OT
+1840,September 2014,OT Rest day,0.57,69.58,Factory C,Engineering and Technical Support,OT
+9046,September 2014,Rest Day Pay,8.0,536.4,Factory C,Manufacturing,Premium Pay
+4182,September 2014,Special Holiday Premium,8.0,202.64,Factory C,Manufacturing,Premium Pay
+4997,September 2014,OT Regular,32.0,2444.16,Factory C,Manufacturing,OT
+1951,September 2014,OT Regular,16.0,2280.16,Factory C,Manufacturing,OT
+8695,September 2014,OT Regular,37.0,4432.23,Factory C,Quality Management,OT
+5193,September 2014,Rest Day Premium Pay,8.0,364.56,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+733,September 2014,OT Rest day,4.0,663.28,Factory C,Manufacturing,OT
+8287,September 2014,Night Premium,36.0,394.92,Factory C,Manufacturing,Night Differential
+6478,September 2014,Night Premium,72.0,487.44,Factory C,Manufacturing,Night Differential
+9630,September 2014,OT Regular,32.0,2393.6,Factory C,Manufacturing,OT
+2789,September 2014,Rest Day Premium Pay,8.0,179.12,Factory C,Engineering and Technical Support,Premium Pay
+1291,September 2014,OT Regular,36.5,2544.05,Factory C,Engineering and Technical Support,OT
+2547,September 2014,Night Premium,28.0,216.44,Factory C,Quality Management,Night Differential
+9702,September 2014,Rest Day Pay,8.0,502.24,Factory C,Manufacturing,Premium Pay
+1046,September 2014,Night Premium,44.0,278.52,Factory C,Manufacturing,Night Differential
+3605,September 2014,Rest Day Pay,8.0,767.28,Factory C,Quality Management,Premium Pay
+4827,September 2014,Rest Day Premium Pay,5.0,80.25,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+8966,September 2014,OT Regular,4.0,484.36,Factory C,Manufacturing,OT
+2572,September 2014,Rest Day Premium Pay,8.0,178.88,Factory C,Manufacturing,Premium Pay
+111,September 2014,OT Regular,47.17,5283.51,Factory C,Engineering and Technical Support,OT
+8377,September 2014,Night Premium,28.0,350.28,Factory C,Manufacturing,Night Differential
+9398,September 2014,Night Premium,20.0,279.2,Factory C,Manufacturing,Night Differential
+8826,September 2014,Rest Day Pay,16.0,1586.88,Factory C,Engineering and Technical Support,Premium Pay
+9568,September 2014,Rest Day Premium Pay,8.0,522.24,Factory C,Manufacturing,Premium Pay
+2567,September 2014,Rest Day Pay,8.0,414.16,Factory C,Manufacturing,Premium Pay
+4368,September 2014,Rest Day Premium Pay,16.0,394.72,Factory C,Engineering and Technical Support,Premium Pay
+1012,September 2014,Night Premium,16.0,329.76,Factory C,Manufacturing,Night Differential
+417,September 2014,Night Premium,52.0,1064.96,Factory C,"Supply Chain, Logistics and Procurement",Night Differential
+4189,September 2014,Night Premium,24.0,124.32,Factory C,Manufacturing,Night Differential
+404,September 2014,Night Premium,16.0,167.04,Factory C,Manufacturing,Night Differential
+5306,September 2014,Rest Day Pay,8.0,532.96,Factory C,Manufacturing,Premium Pay
+9093,September 2014,OT Rest day,8.0,773.92,Factory C,Manufacturing,OT
+2160,September 2014,Night Premium,64.0,861.44,Factory C,Manufacturing,Night Differential
+221,September 2014,Rest Day Pay,8.0,697.12,Factory C,Manufacturing,Premium Pay
+1745,September 2014,Night Premium,48.0,349.44,Factory C,Manufacturing,Night Differential
+7775,September 2014,Rest Day Pay,8.0,1397.2,Factory C,General Management,Premium Pay
+1691,September 2014,Rest Day Pay,16.0,1030.72,Factory C,Manufacturing,Premium Pay
+8815,September 2014,OT Regular,59.0,4328.24,Factory C,Engineering and Technical Support,OT
+4680,September 2014,OT Rest day,2.72,815.65,Factory C,Manufacturing,OT
+7398,September 2014,Night Premium,16.0,338.08,Factory C,Manufacturing,Night Differential
+5371,September 2014,Rest Day Premium Pay,8.0,127.12,Factory C,Manufacturing,Premium Pay
+9841,September 2014,OT Rest day,8.0,1006.16,Factory C,Manufacturing,OT
+1343,September 2014,Night Premium,12.0,70.8,Factory C,Manufacturing,Night Differential
+2227,September 2014,Rest Day Premium Pay,7.93,159.87,Factory C,Manufacturing,Premium Pay
+6084,September 2014,OT Regular,3.0,459.99,Factory C,Digital and Analytics,OT
+1997,September 2014,OT Regular,32.0,5225.6,Factory C,Manufacturing,OT
+2089,September 2014,OT Rest day,4.0,734.68,Factory C,Manufacturing,OT
+9781,September 2014,Rest Day Premium Pay,4.0,62.12,Factory C,Engineering and Technical Support,Premium Pay
+7398,September 2014,OT Regular,20.0,5282.2,Factory C,Manufacturing,OT
+4583,September 2014,OT Rest day,1.0,161.99,Factory C,Quality Management,OT
+5910,September 2014,OT Regular,32.0,4056.0,Factory C,Quality Management,OT
+934,September 2014,OT Rest day,0.48,123.39,Factory C,Manufacturing,OT
+5908,September 2014,Rest Day Premium Pay,16.0,349.28,Factory C,Manufacturing,Premium Pay
+3397,September 2014,OT Rest day,1.98,193.55,Factory C,Manufacturing,OT
+5132,September 2014,OT Regular,14.0,2051.42,Factory C,Manufacturing,OT
+5379,September 2014,Night Premium,28.0,187.88,Factory C,Quality Management,Night Differential
+8100,September 2014,OT Regular,36.0,3126.6,Factory C,Manufacturing,OT
+4997,September 2014,OT Regular,40.0,3055.2,Factory C,Manufacturing,OT
+4281,September 2014,Night Premium,28.0,225.12,Factory C,Manufacturing,Night Differential
+7708,September 2014,Rest Day Pay,8.0,617.76,Factory C,Manufacturing,Premium Pay
+8782,September 2014,Rest Day Pay,16.0,992.48,Factory C,Manufacturing,Premium Pay
+7285,September 2014,OT Regular,23.0,2514.13,Factory C,Manufacturing,OT
+4575,September 2014,Rest Day Premium Pay,8.0,171.52,Factory C,Manufacturing,Premium Pay
+973,September 2014,Rest Day Pay,8.0,647.76,Factory C,Quality Management,Premium Pay
+874,September 2014,Rest Day Pay,8.0,1359.52,Factory C,Manufacturing,Premium Pay
+6484,September 2014,OT Rest day,4.0,1136.88,Factory C,Engineering and Technical Support,OT
+1726,September 2014,Night Premium,24.0,235.44,Factory C,Manufacturing,Night Differential
+6985,September 2014,Night Premium,8.0,148.8,Factory C,Manufacturing,Night Differential
+2383,September 2014,Night Premium,32.0,297.28,Factory C,Manufacturing,Night Differential
+6988,September 2014,OT Regular,31.5,3492.72,Factory C,Manufacturing,OT
+5982,September 2014,Night Premium,24.0,127.2,Factory C,Manufacturing,Night Differential
+6654,September 2014,OT Regular,54.89,15655.18,Factory C,Manufacturing,OT
+9460,September 2014,Night Premium,40.0,212.8,Factory C,Manufacturing,Night Differential
+965,September 2014,Rest Day Premium Pay,8.0,153.2,Factory C,Manufacturing,Premium Pay
+9912,September 2014,Rest Day Pay,16.0,2160.32,Factory C,Engineering and Technical Support,Premium Pay
+568,September 2014,Rest Day Premium Pay,16.0,902.88,Factory C,Engineering and Technical Support,Premium Pay
+8022,September 2014,Night Premium,4.0,39.36,Factory C,Manufacturing,Night Differential
+6998,September 2014,Night Premium,8.0,51.52,Factory C,Manufacturing,Night Differential
+9899,September 2014,OT Regular,40.0,3421.2,Factory C,Manufacturing,OT
+1346,September 2014,OT Regular,32.0,2681.92,Factory C,Manufacturing,OT
+1636,September 2014,Special Holiday Premium,8.0,155.2,Factory C,Manufacturing,Premium Pay
+6452,September 2014,Rest Day Pay,16.0,1723.04,Factory C,Manufacturing,Premium Pay
+6786,September 2014,OT Regular,44.0,3728.12,Factory C,Manufacturing,OT
+5525,September 2014,OT Regular,30.0,2870.7,Factory C,Manufacturing,OT
+3397,September 2014,Rest Day Premium Pay,16.0,277.6,Factory C,Manufacturing,Premium Pay
+631,September 2014,Rest Day Premium Pay,8.0,568.0,Factory C,Manufacturing,Premium Pay
+6795,September 2014,OT Regular,28.0,4692.8,Factory C,Engineering and Technical Support,OT
+959,September 2014,Night Premium,24.0,157.44,Factory C,Engineering and Technical Support,Night Differential
+2653,September 2014,OT Regular,36.0,4119.48,Factory C,Manufacturing,OT
+3331,September 2014,OT Regular,38.03,2805.85,Factory C,Manufacturing,OT
+9629,September 2014,Rest Day Pay,8.0,560.16,Factory C,Manufacturing,Premium Pay
+6807,September 2014,OT Regular,32.0,4400.96,Factory C,Manufacturing,OT
+9753,September 2014,Rest Day Pay,8.0,1408.16,Factory C,Quality Management,Premium Pay
+8131,September 2014,OT Regular,33.5,2277.67,Factory C,Manufacturing,OT
+8271,September 2014,OT Rest day,8.0,1375.68,Factory C,Engineering and Technical Support,OT
+2300,September 2014,Rest Day Premium Pay,8.0,222.96,Factory C,Manufacturing,Premium Pay
+2666,September 2014,OT Regular,24.0,2025.84,Factory C,Manufacturing,OT
+1071,September 2014,OT Regular,48.25,9522.62,Factory C,Manufacturing,OT
+2644,September 2014,OT Special Holiday,4.0,363.36,Factory C,Manufacturing,OT
+5589,September 2014,OT Regular,52.0,6004.96,Factory C,Quality Management,OT
+3356,September 2014,OT Rest day,4.0,482.24,Factory C,Engineering and Technical Support,OT
+1019,September 2014,Rest Day Pay,8.0,1045.12,Factory C,Manufacturing,Premium Pay
+3302,September 2014,OT Regular,50.33,3494.41,Factory C,Manufacturing,OT
+3882,September 2014,OT Regular,48.0,8101.44,Factory C,Manufacturing,OT
+5951,September 2014,Rest Day Premium Pay,8.0,251.28,Factory C,Manufacturing,Premium Pay
+1356,September 2014,OT Regular,52.0,6491.16,Factory C,Manufacturing,OT
+453,September 2014,Night Premium,12.0,81.0,Factory C,Quality Management,Night Differential
+4981,September 2014,OT Regular,52.0,4557.8,Factory C,Engineering and Technical Support,OT
+2304,September 2014,Night Premium,20.0,134.2,Factory C,Quality Management,Night Differential
+8225,September 2014,OT Regular,48.0,3230.4,Factory C,Manufacturing,OT
+2951,September 2014,OT Regular,44.0,3575.44,Factory C,Manufacturing,OT
+4369,September 2014,OT Regular,52.0,3439.8,Factory C,Manufacturing,OT
+4549,September 2014,Rest Day Pay,16.0,1464.16,Factory C,Manufacturing,Premium Pay
+7226,September 2014,Rest Day Pay,16.0,1232.64,Factory C,Manufacturing,Premium Pay
+8260,September 2014,Night Premium,24.0,240.24,Factory C,Manufacturing,Night Differential
+9767,September 2014,Rest Day Pay,8.0,442.4,Factory C,Manufacturing,Premium Pay
+7044,September 2014,OT Regular,8.0,1399.52,Factory C,"Supply Chain, Logistics and Procurement",OT
+421,September 2014,OT Regular,44.0,2629.0,Factory C,Manufacturing,OT
+6764,September 2014,Night Premium,8.0,42.8,Factory C,Manufacturing,Night Differential
+280,September 2014,Night Premium,28.0,190.96,Factory C,Manufacturing,Night Differential
+2198,September 2014,Night Premium,24.0,154.8,Factory C,Manufacturing,Night Differential
+6852,September 2014,Night Premium,24.0,124.32,Factory C,Manufacturing,Night Differential
+6613,September 2014,OT Regular,36.0,3472.2,Factory C,Manufacturing,OT
+7205,September 2014,OT Regular,36.0,4160.88,Factory C,Manufacturing,OT
+1498,September 2014,Rest Day Premium Pay,8.0,435.28,Factory C,Manufacturing,Premium Pay
+100,September 2014,Rest Day Premium Pay,8.0,313.52,Factory C,Manufacturing,Premium Pay
+5996,September 2014,OT Regular,44.0,5034.92,Factory C,Manufacturing,OT
+8060,September 2014,Night Premium,32.0,241.6,Factory C,Manufacturing,Night Differential
+5828,September 2014,OT Rest day,4.0,482.24,Factory C,Manufacturing,OT
+321,September 2014,Rest Day Premium Pay,16.0,267.2,Factory C,Manufacturing,Premium Pay
+4053,September 2014,Rest Day Premium Pay,8.0,156.88,Factory C,Manufacturing,Premium Pay
+3953,September 2014,Rest Day Pay,8.0,722.0,Factory C,Quality Management,Premium Pay
+1195,September 2014,Night Premium,48.0,351.36,Factory C,Manufacturing,Night Differential
+124,September 2014,OT Special Holiday,4.0,416.48,Factory C,Manufacturing,OT
+3556,September 2014,OT Regular,44.0,3992.56,Factory C,Engineering and Technical Support,OT
+7423,September 2014,OT Regular,46.0,14149.6,Factory C,Engineering and Technical Support,OT
+9554,September 2014,Rest Day Premium Pay,8.0,154.48,Factory C,Manufacturing,Premium Pay
+2279,September 2014,OT Rest day,3.82,334.21,Factory C,Manufacturing,OT
+4061,September 2014,Night Premium,44.0,280.72,Factory C,Manufacturing,Night Differential
+3369,September 2014,Special Holiday Premium,8.0,230.08,Factory C,Quality Management,Premium Pay
+4199,September 2014,Rest Day Pay,8.0,585.6,Factory C,Manufacturing,Premium Pay
+4150,September 2014,OT Rest day,4.0,369.52,Factory C,Manufacturing,OT
+5101,September 2014,OT Rest day,3.33,420.91,Factory C,Manufacturing,OT
+6834,September 2014,Night Premium,80.0,1687.2,Factory C,Manufacturing,Night Differential
+1071,September 2014,Rest Day Premium Pay,6.0,284.22,Factory C,Manufacturing,Premium Pay
+1937,September 2014,OT Regular,39.0,6429.15,Factory C,Manufacturing,OT
+6783,September 2014,Rest Day Premium Pay,8.0,129.04,Factory C,Manufacturing,Premium Pay
+9223,September 2014,OT Rest day,4.0,956.88,Factory C,Manufacturing,OT
+5200,September 2014,Rest Day Premium Pay,8.0,257.44,Factory C,Manufacturing,Premium Pay
+3991,September 2014,OT Regular,35.0,5558.35,Factory C,Manufacturing,OT
+3019,September 2014,Rest Day Pay,8.0,1044.24,Factory C,Manufacturing,Premium Pay
+2562,September 2014,OT Rest day,7.0,821.73,Factory C,Manufacturing,OT
+9034,September 2014,OT Regular,45.0,4302.0,Factory C,Engineering and Technical Support,OT
+2680,September 2014,OT Regular,20.0,1894.2,Factory C,Manufacturing,OT
+4544,September 2014,OT Rest day,4.0,372.96,Factory C,Manufacturing,OT
+549,September 2014,OT Rest day,4.0,464.48,Factory C,Manufacturing,OT
+7339,September 2014,Rest Day Pay,8.0,431.68,Factory C,Manufacturing,Premium Pay
+7839,September 2014,Rest Day Premium Pay,8.0,138.4,Factory C,Engineering and Technical Support,Premium Pay
+962,September 2014,OT Regular,41.5,3030.75,Factory C,Manufacturing,OT
+4207,September 2014,Night Premium,8.0,78.48,Factory C,Manufacturing,Night Differential
+7784,September 2014,OT Regular,6.0,397.38,Factory C,Manufacturing,OT
+90,September 2014,OT Regular,34.0,2894.76,Factory C,Manufacturing,OT
+1239,September 2014,OT Regular,35.28,4972.72,Factory C,Manufacturing,OT
+1252,September 2014,Rest Day Premium Pay,15.83,474.27,Factory C,Manufacturing,Premium Pay
+919,September 2014,Rest Day Premium Pay,16.0,333.92,Factory C,Engineering and Technical Support,Premium Pay
+4683,September 2014,Night Premium,8.0,53.68,Factory C,Manufacturing,Night Differential
+6438,September 2014,Rest Day Pay,8.0,949.6,Factory C,Quality Management,Premium Pay
+9957,September 2014,OT Regular,18.83,3782.01,Factory C,Engineering and Technical Support,OT
+5754,September 2014,OT Regular,35.0,4347.35,Factory C,Manufacturing,OT
+1752,September 2014,OT Special Holiday,4.0,372.36,Factory C,Manufacturing,OT
+4189,September 2014,Rest Day Premium Pay,8.0,124.24,Factory C,Manufacturing,Premium Pay
+6549,September 2014,OT Regular,32.0,4064.0,Factory C,Manufacturing,OT
+2936,September 2014,Night Premium,44.0,245.96,Factory C,Manufacturing,Night Differential
+7286,September 2014,Rest Day Pay,16.0,1747.68,Factory C,Manufacturing,Premium Pay
+7322,September 2014,Night Premium,24.0,192.96,Factory C,Manufacturing,Night Differential
+9922,September 2014,Rest Day Pay,8.0,520.24,Factory C,Manufacturing,Premium Pay
+6365,September 2014,Night Premium,33.75,453.6,Factory C,Quality Management,Night Differential
+6667,September 2014,Rest Day Pay,11.82,1546.41,Factory C,Engineering and Technical Support,Premium Pay
+3336,September 2014,OT Rest day,6.95,853.46,Factory C,Engineering and Technical Support,OT
+5706,September 2014,Rest Day Premium Pay,8.0,257.44,Factory C,Manufacturing,Premium Pay
+3670,September 2014,Night Premium,32.0,246.08,Factory C,Manufacturing,Night Differential
+2629,September 2014,Night Premium,44.0,320.76,Factory C,Manufacturing,Night Differential
+1185,September 2014,OT Regular,20.0,1294.2,Factory C,Manufacturing,OT
+9190,September 2014,Rest Day Pay,16.0,1623.04,Factory C,Engineering and Technical Support,Premium Pay
+8407,September 2014,Rest Day Pay,8.0,1296.72,Factory C,Engineering and Technical Support,Premium Pay
+9000,September 2014,Rest Day Pay,8.0,974.64,Factory C,Engineering and Technical Support,Premium Pay
+1336,September 2014,Night Premium,16.0,292.32,Factory C,Manufacturing,Night Differential
+339,September 2014,OT Regular,19.58,2105.05,Factory C,Manufacturing,OT
+6309,September 2014,Rest Day Premium Pay,16.0,353.6,Factory C,Manufacturing,Premium Pay
+8051,September 2014,OT Rest day,3.98,1259.15,Factory C,Quality Management,OT
+1039,September 2014,OT Regular,21.0,1450.68,Factory C,"Supply Chain, Logistics and Procurement",OT
+535,September 2014,Rest Day Pay,8.0,732.64,Factory C,Quality Management,Premium Pay
+4766,September 2014,Rest Day Premium Pay,16.0,305.92,Factory C,Engineering and Technical Support,Premium Pay
+8277,September 2014,OT Regular,46.0,6892.18,Factory C,Quality Management,OT
+6590,September 2014,OT Regular,28.0,2444.68,Factory C,Manufacturing,OT
+3271,September 2014,Rest Day Premium Pay,5.73,192.3,Factory C,Engineering and Technical Support,Premium Pay
+6478,September 2014,Night Premium,68.0,460.36,Factory C,Manufacturing,Night Differential
+5632,September 2014,Night Premium,44.0,775.28,Factory C,Manufacturing,Night Differential
+7387,September 2014,Rest Day Premium Pay,8.0,134.72,Factory C,Engineering and Technical Support,Premium Pay
+1014,September 2014,OT Regular,32.0,4291.2,Factory C,Engineering and Technical Support,OT
+5356,September 2014,Rest Day Pay,8.0,1396.24,Factory C,Manufacturing,Premium Pay
+1050,September 2014,OT Rest day,3.73,326.34,Factory C,Manufacturing,OT
+9298,September 2014,Rest Day Pay,8.0,585.68,Factory C,Manufacturing,Premium Pay
+7134,September 2014,OT Regular,3.0,257.64,Factory C,"Supply Chain, Logistics and Procurement",OT
+3846,September 2014,Rest Day Premium Pay,8.0,144.88,Factory C,Manufacturing,Premium Pay
+3514,September 2014,Special Holiday Premium,8.0,132.4,Factory C,Manufacturing,Premium Pay
+6363,September 2014,Night Premium,28.0,210.0,Factory C,Manufacturing,Night Differential
+3350,September 2014,Night Premium,20.0,129.4,Factory C,Manufacturing,Night Differential
+6108,September 2014,OT Regular,43.0,3203.5,Factory C,Manufacturing,OT
+6055,September 2014,Rest Day Premium Pay,9.78,507.58,Factory C,Manufacturing,Premium Pay
+2124,September 2014,Rest Day Premium Pay,8.0,132.32,Factory C,Manufacturing,Premium Pay
+2997,September 2014,OT Regular,47.47,12032.7,Factory C,General Management,OT
+3019,September 2014,Night Premium,12.0,156.6,Factory C,Manufacturing,Night Differential
+2997,September 2014,Rest Day Pay,8.0,1622.24,Factory C,General Management,Premium Pay
+1382,September 2014,Rest Day Pay,8.0,442.4,Factory C,Manufacturing,Premium Pay
+1505,September 2014,Rest Day Pay,8.0,426.8,Factory C,Manufacturing,Premium Pay
+4835,September 2014,OT Regular,44.5,5563.84,Factory C,Manufacturing,OT
+3331,September 2014,Rest Day Premium Pay,16.0,283.36,Factory C,Manufacturing,Premium Pay
+4312,September 2014,Rest Day Pay,8.0,871.2,Factory C,Manufacturing,Premium Pay
+9481,September 2014,Rest Day Premium Pay,13.92,999.73,Factory C,Manufacturing,Premium Pay
+3229,September 2014,Rest Day Premium Pay,8.0,180.88,Factory C,Manufacturing,Premium Pay
+689,September 2014,Rest Day Pay,8.0,446.56,Factory C,Manufacturing,Premium Pay
+3524,September 2014,OT Rest day,4.0,675.04,Factory C,Manufacturing,OT
+9074,September 2014,OT Special Holiday,4.0,442.8,Factory C,Engineering and Technical Support,OT
+7795,September 2014,OT Regular,40.0,2796.0,Factory C,Manufacturing,OT
+6496,September 2014,OT Rest day,8.0,921.92,Factory C,Manufacturing,OT
+959,September 2014,OT Rest day,6.9,764.93,Factory C,Engineering and Technical Support,OT
+3282,September 2014,OT Regular,8.0,1689.44,Factory C,Engineering and Technical Support,OT
+2709,September 2014,OT Regular,48.0,7116.48,Factory C,Quality Management,OT
+6006,September 2014,OT Regular,48.0,4526.88,Factory C,Manufacturing,OT
+1438,September 2014,Rest Day Pay,8.0,546.96,Factory C,Manufacturing,Premium Pay
+4692,September 2014,OT Regular,11.0,1218.8,Factory C,"Supply Chain, Logistics and Procurement",OT
+9064,September 2014,Night Premium,48.0,353.76,Factory C,Manufacturing,Night Differential
+847,September 2014,OT Regular,46.0,5524.6,Factory C,Engineering and Technical Support,OT
+586,September 2014,Rest Day Premium Pay,8.0,438.4,Factory C,Manufacturing,Premium Pay
+964,September 2014,Night Premium,28.0,151.76,Factory C,Manufacturing,Night Differential
+5534,September 2014,Rest Day Premium Pay,8.0,324.08,Factory C,Manufacturing,Premium Pay
+9629,September 2014,OT Regular,35.0,3063.55,Factory C,Manufacturing,OT
+900,September 2014,OT Rest day,7.97,2034.98,Factory C,Engineering and Technical Support,OT
+3933,September 2014,Night Premium,24.0,237.84,Factory C,Manufacturing,Night Differential
+6815,September 2014,OT Regular,28.0,2017.68,Factory C,Manufacturing,OT
+8838,September 2014,Rest Day Premium Pay,8.0,127.12,Factory C,Manufacturing,Premium Pay
+141,September 2014,OT Rest day,4.0,458.88,Factory C,Manufacturing,OT
+1793,September 2014,OT Regular,43.0,3398.29,Factory C,Manufacturing,OT
+3476,September 2014,OT Rest day,3.0,346.65,Factory C,Manufacturing,OT
+3888,September 2014,Rest Day Premium Pay,8.0,230.08,Factory C,Quality Management,Premium Pay
+3605,September 2014,Rest Day Premium Pay,8.0,230.16,Factory C,Quality Management,Premium Pay
+7786,September 2014,OT Rest day,8.0,2734.8,Factory C,Manufacturing,OT
+3949,September 2014,Night Premium,48.0,297.6,Factory C,Manufacturing,Night Differential
+8167,September 2014,Night Premium,44.0,663.96,Factory C,Manufacturing,Night Differential
+4909,September 2014,Night Premium,32.0,172.16,Factory C,Manufacturing,Night Differential
+6687,September 2014,OT Regular,48.0,3415.68,Factory C,Manufacturing,OT
+5526,September 2014,Rest Day Pay,8.0,536.72,Factory C,Quality Management,Premium Pay
+3907,September 2014,OT Rest day,4.0,435.08,Factory C,Manufacturing,OT
+1928,September 2014,Rest Day Pay,8.0,544.16,Factory C,Manufacturing,Premium Pay
+7511,September 2014,Rest Day Pay,8.0,546.96,Factory C,Manufacturing,Premium Pay
+3362,September 2014,Rest Day Pay,4.0,569.48,Factory C,Manufacturing,Premium Pay
+1623,September 2014,Rest Day Premium Pay,8.0,155.04,Factory C,Manufacturing,Premium Pay
+6389,September 2014,Rest Day Pay,8.0,945.92,Factory C,Manufacturing,Premium Pay
+6551,September 2014,Rest Day Pay,8.0,528.32,Factory C,Manufacturing,Premium Pay
+7016,September 2014,OT Regular,4.0,335.24,Factory C,Manufacturing,OT
+3375,September 2014,OT Regular,27.0,3099.33,Factory C,Manufacturing,OT
+8807,September 2014,OT Regular,20.0,2249.8,Factory C,Manufacturing,OT
+7599,September 2014,OT Regular,24.0,1686.96,Factory C,Manufacturing,OT
+8202,September 2014,Night Premium,8.0,54.56,Factory C,Manufacturing,Night Differential
+3635,September 2014,OT Regular,47.98,5589.19,Factory C,Engineering and Technical Support,OT
+4053,September 2014,Night Premium,36.53,238.91,Factory C,Manufacturing,Night Differential
+173,September 2014,OT Rest day,4.0,400.0,Factory C,Manufacturing,OT
+4196,September 2014,Special Holiday Premium,8.0,177.2,Factory C,Engineering and Technical Support,Premium Pay
+5350,September 2014,OT Regular,46.0,4891.18,Factory C,Manufacturing,OT
+8652,September 2014,OT Rest day,3.25,376.51,Factory C,Manufacturing,OT
+4831,September 2014,OT Rest day,4.0,543.44,Factory C,Manufacturing,OT
+9969,September 2014,OT Rest day,4.0,586.36,Factory C,Manufacturing,OT
+1775,September 2014,OT Rest day,4.0,556.4,Factory C,Quality Management,OT
+1299,September 2014,Rest Day Pay,12.5,695.75,Factory C,Manufacturing,Premium Pay
+2823,September 2014,Night Premium,28.0,133.84,Factory C,Engineering and Technical Support,Night Differential
+8826,September 2014,OT Regular,38.0,4711.24,Factory C,Engineering and Technical Support,OT
+1957,September 2014,OT Rest day,11.21,1545.86,Factory C,Engineering and Technical Support,OT
+9155,September 2014,Rest Day Premium Pay,16.0,324.48,Factory C,Quality Management,Premium Pay
+9629,September 2014,Rest Day Pay,8.0,560.16,Factory C,Manufacturing,Premium Pay
+4641,September 2014,OT Rest day,4.0,517.2,Factory C,Manufacturing,OT
+2547,September 2014,Special Holiday Premium,8.0,185.44,Factory C,Quality Management,Premium Pay
+1336,September 2014,Night Premium,40.0,730.8,Factory C,Manufacturing,Night Differential
+9143,September 2014,OT Regular,28.0,2566.2,Factory C,Manufacturing,OT
+9036,September 2014,Night Premium,28.0,301.84,Factory C,Quality Management,Night Differential
+134,September 2014,Night Premium,48.0,346.56,Factory C,Engineering and Technical Support,Night Differential
+483,September 2014,Rest Day Pay,8.0,514.32,Factory C,Manufacturing,Premium Pay
+5826,September 2014,OT Regular,48.0,3076.8,Factory C,Engineering and Technical Support,OT
+871,September 2014,Rest Day Premium Pay,7.95,163.53,Factory C,Engineering and Technical Support,Premium Pay
+8701,September 2014,Rest Day Premium Pay,8.0,162.96,Factory C,Manufacturing,Premium Pay
+7482,September 2014,Night Premium,32.0,232.32,Factory C,Manufacturing,Night Differential
+7407,September 2014,Rest Day Premium Pay,16.0,329.12,Factory C,Manufacturing,Premium Pay
+6206,September 2014,Rest Day Premium Pay,8.0,486.08,Factory C,Engineering and Technical Support,Premium Pay
+5710,September 2014,Rest Day Pay,16.0,2202.88,Factory C,"Supply Chain, Logistics and Procurement",Premium Pay
+7506,September 2014,Rest Day Premium Pay,8.0,419.44,Factory C,Engineering and Technical Support,Premium Pay
+1271,September 2014,OT Regular,9.74,750.08,Factory C,Manufacturing,OT
+7357,September 2014,OT Rest day,8.0,846.88,Factory C,Manufacturing,OT
+1424,September 2014,Rest Day Premium Pay,8.0,230.08,Factory C,Quality Management,Premium Pay
+4413,September 2014,Rest Day Premium Pay,6.0,314.7,Factory C,Engineering and Technical Support,Premium Pay
+631,September 2014,OT Regular,47.5,14050.98,Factory C,Manufacturing,OT
+134,September 2014,OT Regular,52.0,4689.88,Factory C,Engineering and Technical Support,OT
+965,September 2014,OT Regular,44.0,3510.32,Factory C,Manufacturing,OT
+7497,September 2014,Rest Day Premium Pay,8.0,178.56,Factory C,Engineering and Technical Support,Premium Pay
+4539,September 2014,OT Regular,7.0,651.35,Factory C,Engineering and Technical Support,OT
+5610,September 2014,OT Rest day,4.0,1154.28,Factory C,Manufacturing,OT
+2440,September 2014,Night Premium,24.0,206.4,Factory C,Manufacturing,Night Differential
+1690,September 2014,Night Premium,8.0,56.56,Factory C,Manufacturing,Night Differential
+7902,September 2014,Night Premium,28.0,589.4,Factory C,Manufacturing,Night Differential
+9814,September 2014,Rest Day Premium Pay,8.0,293.04,Factory C,Quality Management,Premium Pay
+3320,September 2014,OT Rest day,4.0,380.32,Factory C,Manufacturing,OT
+1195,September 2014,OT Rest day,8.0,989.76,Factory C,Manufacturing,OT
+7949,September 2014,OT Rest day,4.0,1016.76,Factory C,Manufacturing,OT
+3229,September 2014,Rest Day Pay,8.0,602.8,Factory C,Manufacturing,Premium Pay
+1726,September 2014,OT Regular,52.0,6374.68,Factory C,Manufacturing,OT
+9540,September 2014,Rest Day Pay,8.0,480.08,Factory C,Manufacturing,Premium Pay
+8647,September 2014,OT Regular,8.0,1073.28,Factory C,Manufacturing,OT
+5567,September 2014,Night Premium,12.0,331.56,Factory C,Engineering and Technical Support,Night Differential
+4035,September 2014,Rest Day Pay,8.0,1203.28,Factory C,Manufacturing,Premium Pay
+4146,September 2014,Rest Day Premium Pay,8.0,366.08,Factory C,Manufacturing,Premium Pay
+5959,September 2014,Night Premium,28.0,287.84,Factory C,Manufacturing,Night Differential
+4976,September 2014,Rest Day Pay,8.0,479.52,Factory C,Manufacturing,Premium Pay
+6939,September 2014,OT Special Holiday,4.0,452.16,Factory C,Manufacturing,OT
+6814,September 2014,Night Premium,8.0,68.8,Factory C,Manufacturing,Night Differential
+2824,September 2014,Rest Day Premium Pay,8.0,239.68,Factory C,Engineering and Technical Support,Premium Pay
+4064,September 2014,Night Premium,28.0,191.8,Factory C,Manufacturing,Night Differential
+6739,September 2014,Night Premium,32.0,354.24,Factory C,Manufacturing,Night Differential
+9725,September 2014,OT Rest day,4.0,1182.6,Factory C,Manufacturing,OT
+4053,September 2014,OT Regular,48.0,3921.12,Factory C,Manufacturing,OT
+7032,September 2014,OT Regular,8.0,736.8,Factory C,"Supply Chain, Logistics and Procurement",OT
+5696,September 2014,OT Rest day,3.68,475.38,Factory C,Quality Management,OT
+6255,September 2014,Rest Day Pay,16.0,2011.52,Factory C,Engineering and Technical Support,Premium Pay
+4087,September 2014,Special Holiday Premium,2.0,44.6,Factory C,Manufacturing,Premium Pay
+9318,September 2014,Rest Day Premium Pay,8.0,154.8,Factory C,Quality Management,Premium Pay
+1228,September 2014,Rest Day Pay,8.0,1734.08,Factory C,Manufacturing,Premium Pay
+4879,September 2014,Night Premium,24.0,552.48,Factory C,Manufacturing,Night Differential
+3809,September 2014,Night Premium,24.0,204.96,Factory C,Quality Management,Night Differential
+4053,September 2014,OT Rest day,3.95,436.24,Factory C,Manufacturing,OT
+6786,September 2014,Rest Day Pay,8.0,542.24,Factory C,Manufacturing,Premium Pay
+2201,September 2014,Rest Day Pay,16.0,1074.56,Factory C,Manufacturing,Premium Pay
+1198,September 2014,OT Rest day,4.0,1182.6,Factory C,Engineering and Technical Support,OT
+7209,September 2014,OT Regular,40.0,3419.2,Factory C,Engineering and Technical Support,OT
+5168,September 2014,OT Regular,40.0,2753.6,Factory C,Manufacturing,OT
+7449,September 2014,Rest Day Premium Pay,16.0,341.44,Factory C,Manufacturing,Premium Pay
+5462,September 2014,OT Regular,28.0,6508.6,Factory C,Manufacturing,OT
+5141,September 2014,Rest Day Premium Pay,8.0,460.16,Factory C,Engineering and Technical Support,Premium Pay
+2104,September 2014,OT Rest day,7.82,726.48,Factory C,Manufacturing,OT
+7764,September 2014,Rest Day Premium Pay,8.0,445.92,Factory C,Manufacturing,Premium Pay
+8444,September 2014,Rest Day Pay,16.0,1570.24,Factory C,Manufacturing,Premium Pay
+3846,September 2014,OT Rest day,3.97,404.9,Factory C,Manufacturing,OT
+3168,September 2014,Rest Day Premium Pay,8.0,191.6,Factory C,Quality Management,Premium Pay
+4733,September 2014,Night Premium,52.0,1058.2,Factory C,Manufacturing,Night Differential
+5105,September 2014,Rest Day Pay,8.0,789.84,Factory C,Manufacturing,Premium Pay
+3331,September 2014,Rest Day Premium Pay,8.0,141.68,Factory C,Manufacturing,Premium Pay
+6452,September 2014,OT Regular,43.25,5821.88,Factory C,Manufacturing,OT
+6611,September 2014,OT Regular,43.0,6158.89,Factory C,Engineering and Technical Support,OT
+3950,September 2014,Rest Day Pay,8.0,1608.96,Factory C,Manufacturing,Premium Pay
+5933,September 2014,OT Regular,40.0,3939.2,Factory C,Manufacturing,OT
+8679,September 2014,OT Regular,44.0,5271.64,Factory C,Quality Management,OT
+1666,September 2014,Night Premium,28.0,186.76,Factory C,Engineering and Technical Support,Night Differential
+5384,September 2014,Rest Day Pay,8.0,511.84,Factory C,Manufacturing,Premium Pay
+6067,September 2014,OT Rest day,8.0,1230.56,Factory C,Quality Management,OT
+2967,September 2014,OT Rest day,8.0,916.08,Factory C,Manufacturing,OT
+3666,September 2014,Rest Day Premium Pay,8.0,516.08,Factory C,Manufacturing,Premium Pay

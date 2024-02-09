@@ -1,0 +1,5 @@
+.env
+.venv_data_analysis_bot/
+.vscode/
+__pycache__/
+hr-copilot-public/*
