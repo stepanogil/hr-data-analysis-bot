@@ -76,5 +76,5 @@ period = st.sidebar.selectbox("Period Covered:", ["January 2014", "February 2014
 
 if st.sidebar.button('Select'):
     create_filtered_csv_and_pass_to_api(st.session_state["thread_id"], period, location)    
-    st.success(f"Overtime data for {location} location for {period} period has been loaded.\n\nWhat you like to know about this data?")    
+    st.success(f"Overtime data for {location} location for {period} period has been loaded.\n\nWhat would you like to know or do next with this data?")    
     

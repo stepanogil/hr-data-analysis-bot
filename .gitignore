@@ -3,3 +3,4 @@
 .vscode/
 __pycache__/
 hr-copilot-public/*
+raw_data.csv

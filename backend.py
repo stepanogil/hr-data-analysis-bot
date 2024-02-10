@@ -79,10 +79,37 @@ def new_thread():
 def create_filtered_csv_and_pass_to_api(thread_id, period, location):        
     # load csv as df
     df = pd.read_csv('final_data.csv')
-    # filter by month and location
-    # filtered_df = df[(df['month-year'] == period) & (df['location'] == location)]
-    filtered_df = df[(df['month-year'] == period) & (df['location'] == location)].sample(n=1000, random_state=1)
-    # filtered_df = df[(df['month-year'] == 'January 2014') & (df['location'] == 'Factory A')] #.sample(n=100, random_state=1)
+    
+    # Initialize filter conditions to True
+    location_condition = pd.Series([True] * len(df))
+    period_condition = pd.Series([True] * len(df))
+
+    # Assume 'n' will be 1000 for specific location and period
+    n = 1000
+
+    # Apply location filter if specific location is provided
+    if location != 'All Locations':
+        location_condition = df['location'] == location
+    else:
+        # If 'All Locations' is selected, set 'n' to 3000
+        n = 3000
+
+    # Apply period filter if specific period is provided
+    if period != 'All Periods':
+        period_condition = df['month-year'] == period
+    else:
+        # If 'All Periods' is selected, set 'n' to 3000
+        n = 3000
+
+    # Combine filters and apply
+    filtered_df = df[location_condition & period_condition]
+
+    # If both 'All Locations' and 'All Periods' are selected, ensure 'n' is 3000
+    if location == 'All Locations' and period == 'All Periods':
+        n = 3000
+
+    # Sample 'n' records
+    filtered_df = filtered_df.sample(n=min(n, len(filtered_df)), random_state=1)
         
     filtered_df.to_csv('data_for_analysis.csv', index=False)
 
