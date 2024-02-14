@@ -2,15 +2,22 @@ import os
 import json
 import time
 from dotenv import load_dotenv
-from openai import OpenAI
+# from openai import OpenAI
+from openai import AzureOpenAI
 import pandas as pd
 from icecream import ic
 
 
 load_dotenv()
-openai_api_key = os.getenv('OPENAI_API_KEY')
+# openai_api_key = os.getenv('OPENAI_API_KEY')
 
-client = OpenAI()
+# client = OpenAI()
+
+client = AzureOpenAI(
+    api_key=os.getenv("AZURE_OPENAI_KEY"),  
+    api_version="2024-02-15-preview",
+    azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
+    )
 
 def chat(user_message, thread_id):
     
@@ -21,7 +28,8 @@ def chat(user_message, thread_id):
     
     # set assistant    
     # assistant_id = os.getenv('ASSISTANT_ID')    
-    assistant_id = "asst_3aEPvVX4OriP2fYl7Evn4t7i"    
+    # assistant_id = "asst_3aEPvVX4OriP2fYl7Evn4t7i"    # from platform.openai
+    assistant_id = "asst_WrTwJjREhmkQv6RT5yFO0y2W"  # from azure openai
     
     # create thread
     client.beta.threads.messages.create(
@@ -85,28 +93,28 @@ def create_filtered_csv_and_pass_to_api(thread_id, period, location):
     period_condition = pd.Series([True] * len(df))
 
     # Assume 'n' will be 1000 for specific location and period
-    n = 1000
+    n = 500
 
     # Apply location filter if specific location is provided
     if location != 'All Locations':
         location_condition = df['location'] == location
     else:
         # If 'All Locations' is selected, set 'n' to 3000
-        n = 3000
+        n = 1000
 
     # Apply period filter if specific period is provided
     if period != 'All Periods':
         period_condition = df['month-year'] == period
     else:
         # If 'All Periods' is selected, set 'n' to 3000
-        n = 3000
+        n = 1000
 
     # Combine filters and apply
     filtered_df = df[location_condition & period_condition]
 
     # If both 'All Locations' and 'All Periods' are selected, ensure 'n' is 3000
     if location == 'All Locations' and period == 'All Periods':
-        n = 3000
+        n = 2000
 
     # Sample 'n' records
     filtered_df = filtered_df.sample(n=min(n, len(filtered_df)), random_state=1)

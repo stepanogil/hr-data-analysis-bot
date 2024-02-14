@@ -40,11 +40,11 @@ if st.button("Send"):
             st.session_state["past"].append(user_input)
             # Convert binary image to a data URI
             img_data_uri = base64.b64encode(binary_img_file).decode('utf-8')            
-            img_markdown = f"![image](data:image/jpeg;base64,{img_data_uri})"
-            
-            # Append image tag and text response to the chat history
-            st.session_state["generated"].append(img_markdown)
-            st.session_state["generated"].append(response_text)
+            # img_markdown = f"![image](data:image/jpeg;base64,{img_data_uri})"
+
+            response = f"![image](data:image/jpeg;base64,{img_data_uri})\n\n{response_text}"
+                        
+            st.session_state["generated"].append(response)
             
             # Display text only response.
         else:
@@ -62,6 +62,7 @@ if st.session_state["generated"]:
             if i < len(st.session_state["past"]):
                 message(st.session_state["past"][i], is_user=True, key=str(i) + "_user")
             message(st.session_state["generated"][i], key=str(i))
+        
 
 # New Thread
 if st.sidebar.button('New Session'):
